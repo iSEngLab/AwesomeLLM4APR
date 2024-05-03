@@ -1,5 +1,5 @@
 # Large Language Models for Automated Program Repair
->*Title*: [A Systematic Literature Review on Large Language Models for Automated Program Repair]([https://arxiv.org/abs/2312.15223](https://arxiv.org/abs/2405.01466))
+>*Title*: [A Systematic Literature Review on Large Language Models for Automated Program Repair]([https://arxiv.org/abs/2405.01466](https://arxiv.org/abs/2405.01466))
 >
 >*Authors*: Quanjun Zhang, Chunrong Fang, Yang Xie, YuXiang Ma, Weisong Sun, Yun Yang Zhenyu Chen
 
@@ -58,11 +58,12 @@ Current open challenges in applying LLMs to APR are discussed, along with potent
 
 ```bibtex
 @article{zhang2024survey,
-  title={A Survey on Large Language Models for Automated Program Repair},
-  author={Zhang, Quanjun and Fang, Chunrong and Chen, Zhenyu},
-  journal={ACM Computing Surveys},
+  title={A Systematic Literature Review on Large Language Models for Automated Program Repair},
+  author={Zhang, Quanjun and Fang, Chunrong and Xie, Yang and Ma, Yuxiang and Sun, Weisong and Yang, Yun and Chen, Zhenyu},
+  journal={arXiv preprint arXiv:2405.01466}
   year={2024}
 }
+
 ```
 
 ## Support

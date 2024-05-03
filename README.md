@@ -8,11 +8,6 @@
 </p>
 
 
->*Title*: A Systematic Literature Review on Large Language Models for Automated Program Repair
->
->*Authors*: Quanjun Zhang, Chunrong Fang, Yang Xie, YuXiang Ma, Weisong Sun, Yun Yang Zhenyu Chen
-
-
 ## Contents
 
 - [Survey Methodology](#survey-methodology)

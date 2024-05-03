@@ -1,5 +1,13 @@
-# 🤖 Awesome LLM for APR
-[Paper](https://arxiv.org/abs/2405.01466)
+<h1 align = "center">🤖 Awesome LLM for APR</h1>
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a>
+  <a href="https://arxiv.org/abs/2405.01466"><img src="https://img.shields.io/badge/arXiv-2405.01466-blue.svg"></a>
+  <img src="https://img.shields.io/github/stars/iSEngLab/AwesomeLLM4APR?color=yellow&label=Stars">
+  <img src="https://img.shields.io/badge/PRs-Welcome-red">
+  <img src="https://img.shields.io/github/last-commit/iSEngLab/AwesomeLLM4APR">
+</p>
+
+
 >*Title*: A Systematic Literature Review on Large Language Models for Automated Program Repair
 >
 >*Authors*: Quanjun Zhang, Chunrong Fang, Yang Xie, YuXiang Ma, Weisong Sun, Yun Yang Zhenyu Chen

@@ -1,6 +1,8 @@
-# AwesomeLLM4APR: A Survey of Large Language Models for Automated Program Repair
+# Large Language Models for Automated Program Repair
+>*Title*: [A Systematic Literature Review on Large Language Models for Automated Program Repair]([https://arxiv.org/abs/2312.15223](https://arxiv.org/abs/2405.01466))
+>
+>*Authors*: Quanjun Zhang, Chunrong Fang, Yang Xie, YuXiang Ma, Weisong Sun, Yun Yang Zhenyu Chen
 
-This repository contains the materials for the paper "A Survey on Large Language Models for Automated Program Repair" by Quanjun Zhang, Chunrong Fang, and Zhenyu Chen.
 
 ## Abstract
 

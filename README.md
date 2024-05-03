@@ -5,10 +5,6 @@
 >*Authors*: Quanjun Zhang, Chunrong Fang, Yang Xie, YuXiang Ma, Weisong Sun, Yun Yang Zhenyu Chen
 
 
-## Abstract
-
-Automated program repair (APR) aims to fix software bugs automatically. With recent advances in large language models (LLMs), there has been a surge of research leveraging LLMs for APR, demonstrating remarkable performance. This paper provides a comprehensive survey summarizing and analyzing 226 papers from 2021 to 2024 on applying LLMs to APR. It categorizes popular LLMs used for APR based on model architectures (encoder-only, decoder-only, encoder-decoder), analyzes strategies for utilizing LLMs (fine-tuning, few-shot, zero-shot), and discusses specific repair scenarios benefiting from LLMs like semantic bugs and security vulnerabilities. Critical aspects including input prompting, open science issues, industrial adoption, and available tools are covered. Finally, open challenges and potential future research directions are highlighted.
-
 ## Contents
 
 - [Survey Methodology](#survey-methodology)
@@ -20,40 +16,6 @@ Automated program repair (APR) aims to fix software bugs automatically. With rec
 - [Challenges and Future Directions](#challenges-and-future-directions)
 - [Citation](#citation)
 
-## Survey Methodology
-
-The authors followed a systematic literature review methodology to collect and analyze relevant papers, detailing the research questions, search strategy, study selection criteria and process.
-
-## Publication Trends 
-
-Analysis of the distribution of publication years, venues, contribution types (new techniques, empirical studies, benchmarks) for LLM-based APR research.
-
-## Popular LLMs for APR
-
-Popular LLMs applied to APR are categorized into encoder-only (e.g. CodeBERT), decoder-only (e.g. CodeGen, GPT models), and encoder-decoder (e.g. CodeT5) based on their architectures.  
-
-## LLM Utilization Strategies  
-
-The three main strategies for utilizing LLMs are discussed:
-1. **Fine-tuning**: Further training LLMs on bug fix data
-2. **Few-shot learning**: Using task examples to guide LLMs  
-3. **Zero-shot learning**: Direct prompting of LLMs without examples
-
-## Repair Scenarios
-
-Application of LLMs to different repair scenarios is analyzed, with semantic bugs receiving most attention, followed by security vulnerabilities, syntax errors, static warnings and others.
-
-## Other Critical Aspects
-
-Other important aspects covered include:
-- Input prompt engineering techniques
-- Open science and publicly available artifacts 
-- Industrial adoption of LLM-based APR
-- Available tools and prototypes 
-
-## Challenges and Future Directions  
-
-Current open challenges in applying LLMs to APR are discussed, along with potential future research directions.
 
 ## Citation
 
@@ -67,11 +29,6 @@ Current open challenges in applying LLMs to APR are discussed, along with potent
 
 ```
 
-## Support
-
-If you have any questions, please contact Chunrong Fang (fangchunrong@nju.edu.cn).
-
-Let me know if you need any clarification or would like me to modify anything in this draft.
 
 ## LLM4SE
 | Task | Paper Title | Year | Publisher |

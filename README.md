@@ -1,4 +1,4 @@
-# Awesome LLM for APR
+# 🤖 Awesome LLM for APR
 [Paper](https://arxiv.org/abs/2405.01466)
 >*Title*: A Systematic Literature Review on Large Language Models for Automated Program Repair
 >

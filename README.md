@@ -187,10 +187,11 @@
 
 ### Hardware Bug
 
-1. On Hardware Security Bug Code Fixes By Prompting Large Language Models [2023-TIFS] [[paper](https://ieeexplore.ieee.org/abstract/document/10462177)] [[repo](https://zenodo.org/records/10416865)]
-2. HDLdebugger: Streamlining HDL debugging with Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2403.11671)]
-3. RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models [2023-arxiv] [[paper](https://arxiv.org/pdf/2311.16543)]
-4. LLM4SecHW: Leveraging domain-specific large language model for hardware debugging [2023-AsianHOST] [[paper](https://arxiv.org/pdf/2401.16448)]
+1. On Hardware Security Bug Code Fixes By Prompting Large Language Models [2024-TIFS] [[paper](https://ieeexplore.ieee.org/abstract/document/10462177)] [[repo](https://zenodo.org/records/10416865)]\
+   Its pre-print: Fixing Hardware Security Bugs with Large Language Models [2022-arXiv] [[paper](https://arxiv.org/abs/2302.01215)]
+3. HDLdebugger: Streamlining HDL debugging with Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2403.11671)]
+4. RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models [2023-arxiv] [[paper](https://arxiv.org/pdf/2311.16543)]
+5. LLM4SecHW: Leveraging domain-specific large language model for hardware debugging [2023-AsianHOST] [[paper](https://arxiv.org/pdf/2401.16448)]
 
 ### Performance Bug
 

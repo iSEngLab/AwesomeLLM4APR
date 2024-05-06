@@ -158,14 +158,6 @@
 9. Is Self-Repair a Silver Bullet for Code Generation? [2023-ICLR] [[paper](https://openreview.net/pdf?id=y0GJXRungR)] [[repo](https://github.com/theoxo/self-repair)]
 10. Leveraging Print Debugging to Improve Code Generation in Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.05319)]
 
-### Patch Correctness
-
-1. Evaluating representation learning of code changes for predicting patch correctness in program repair [2020-ASE] [[paper](https://arxiv.org/pdf/2008.02944)] [[repo](https://github.com/TruX-DTF/DL4PatchCorrectness)]
-2. Is this Change the Answer to that Problem? Correlating Descriptions of Bug and Code Changes for Evaluating Patch Correctness [2021-ASE] [[paper](https://dl.acm.org/doi/pdf/10.1145/3551349.3556914)] [[repo](https://github.com/Trustworthy-Software/Quatrain)]
-3. The Best of Both Worlds: Combining Learned Embeddings with Engineered Features for Accurate Prediction of Correct Patches [2023-TOSME] [[paper](https://dl.acm.org/doi/pdf/10.1145/3576039)] [[repo](https://github.com/HaoyeTianCoder/Panther)]
-4. Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning [2023-TSE] [[paper](https://arxiv.org/pdf/2301.01113)] [[repo](https://github.com/thanhlecongg/Invalidator)]
-5. APPT Boosting Automated Patch Correctness Prediction via Pre-trained Language Model [2024-TSE] [[paper](https://arxiv.org/pdf/2301.12453)] [[repo](https://github.com/iSEngLab/APPT)]
-6. PatchZero: Zero-Shot Automatic Patch Correctness Assessment [2023-arxiv] [[paper](https://arxiv.org/pdf/2303.00202)]
 
 ### Type Error
 
@@ -228,18 +220,19 @@
 
 ### N.A.
 
-1. An Empirical Study of Adoption of ChatGPT for Bug Fixing among Professional Developers [2023-ITA] [[paper](https://bergersci.com/index.php/jta/article/download/19/20)]
-2. Exploring Experiences with Automated Program Repair in Practice [2024-ICSE] [[paper](https://dl.acm.org/doi/pdf/10.1145/3597503.3639182)]
 3. CodeEditorBench: Evaluating Code Editing Capability of Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.03543)] [[repo](https://github.com/CodeEditorBench/CodeEditorBench)]
 4. A Deep Dive into Large Language Models for Automated Bug Localization and Repair [2024-FSE/ESEC] [[paper](https://arxiv.org/pdf/2404.11595)]
 
+### Human Study
+1. An Empirical Study of Adoption of ChatGPT for Bug Fixing among Professional Developers [2023-ITA] [[paper](https://bergersci.com/index.php/jta/article/download/19/20)]
+2. Exploring Experiences with Automated Program Repair in Practice [2024-ICSE] [[paper](https://dl.acm.org/doi/pdf/10.1145/3597503.3639182)]
+
 ### Patch Correctness Assessment
+
 1. Evaluating representation learning of code changes for predicting patch correctness in program repair [2020-ASE] [[paper](https://arxiv.org/pdf/2008.02944)] [[repo](https://github.com/TruX-DTF/DL4PatchCorrectness)]
-1. Is this Change the Answer to that Problem? Correlating Descriptions of Bug and Code Changes for Evaluating Patch Correctness [2021-ASE] [[paper](https://dl.acm.org/doi/pdf/10.1145/3551349.3556914)] [[repo](https://github.com/Trustworthy-Software/Quatrain)]
-1. The Best of Both Worlds: Combining Learned Embeddings with Engineered Features for Accurate Prediction of Correct Patches [2023-TOSME] [[paper](https://dl.acm.org/doi/pdf/10.1145/3576039)] [[repo](https://github.com/HaoyeTianCoder/Panther)]
-1. Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning [2023-TSE] [[paper](https://arxiv.org/pdf/2301.01113)] [[repo](https://github.com/thanhlecongg/Invalidator)]
-1. APPT Boosting Automated Patch Correctness Prediction via Pre-trained Language Model [2024-TSE] [[paper](https://arxiv.org/pdf/2301.12453)] [[repo](https://github.com/iSEngLab/APPT)]
-1. PatchZero: Zero-Shot Automatic Patch Correctness Assessment [2023-arxiv] [[paper](https://arxiv.org/pdf/2303.00202)]
-
-
+2. Is this Change the Answer to that Problem? Correlating Descriptions of Bug and Code Changes for Evaluating Patch Correctness [2021-ASE] [[paper](https://dl.acm.org/doi/pdf/10.1145/3551349.3556914)] [[repo](https://github.com/Trustworthy-Software/Quatrain)]
+3. The Best of Both Worlds: Combining Learned Embeddings with Engineered Features for Accurate Prediction of Correct Patches [2023-TOSME] [[paper](https://dl.acm.org/doi/pdf/10.1145/3576039)] [[repo](https://github.com/HaoyeTianCoder/Panther)]
+4. Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning [2023-TSE] [[paper](https://arxiv.org/pdf/2301.01113)] [[repo](https://github.com/thanhlecongg/Invalidator)]
+5. APPT Boosting Automated Patch Correctness Prediction via Pre-trained Language Model [2024-TSE] [[paper](https://arxiv.org/pdf/2301.12453)] [[repo](https://github.com/iSEngLab/APPT)]
+6. PatchZero: Zero-Shot Automatic Patch Correctness Assessment [2023-arxiv] [[paper](https://arxiv.org/pdf/2303.00202)]
 

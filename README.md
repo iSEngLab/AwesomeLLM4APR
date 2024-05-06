@@ -7,20 +7,34 @@
   <img src="https://img.shields.io/github/last-commit/iSEngLab/AwesomeLLM4APR">
 </p>
 
+## 📖 Contents
+- [👏 Citation](#-citation)
+- [💡 Repair Scenarios](#-repair-scenarios)
+  - [Semantic Bug](#semantic-bug)
+  - [Security Vulnerability](#security-vulnerability)
+  - [Syntax Error](#syntax-error)
+  - [Programming Problem](#programming-problem)
+  - [Static Warning](#static-warning)
+  - [Self-Debug](#self-debug)
+  - [Type Error](#type-error)
+  - [Web UI Test](#web-ui-test)
+  - [Smart Contract](#smart-contract)
+  - [Hardware Bug](#hardware-bug)
+  - [Performance Bug](#performance-bug)
+  - [API Misuse](#api-misuse)
+  - [Crash Bug](#crash-bug)
+  - [Test Case](#test-case)
+  - [Formal Proof](#formal-proof)
+  - [Translation Bug](#translation-bug)
+  - [GitHub Issue](#github-issue)
+  - [Code Review](#code-review)
+  - [Motion Planner](#motion-planner)
+- [🙆 Human Study](#-human-study)
+- [🙅 Patch Correctness Assessment](#-patch-correctness-assessment)
+- [📊 Benchmark](#-benchmark)
 
-## Contents
 
-- [Survey Methodology](#survey-methodology)
-- [Publication Trends](#publication-trends)
-- [Popular LLMs for APR](#popular-llms-for-apr)
-- [LLM Utilization Strategies](#llm-utilization-strategies)
-- [Repair Scenarios](#repair-scenarios)
-- [Other Critical Aspects](#other-critical-aspects)  
-- [Challenges and Future Directions](#challenges-and-future-directions)
-- [Citation](#citation)
-
-
-## Citation
+## 👏 Citation
 
 ```bibtex
 @article{zhang2024survey,
@@ -32,66 +46,63 @@
 
 ```
 
-## LLM4APR
-
+## 💡 Repair Scenarios 
 ### Semantic Bug
 
 1. Generating Bug-Fixes Using Pretrained Transformers [2021-PLDI] [[paper](https://arxiv.org/pdf/2104.07896)]
-1. Applying CodeBERT for Automated Program Repair of Java Simple Bugs [2021-MSR] [[paper](https://arxiv.org/pdf/2103.11626)] [[repo](https://github.com/EhsanMashhadi/MSR2021-ProgramRepair)]
-1. CIRCLE: Continual Repair across Programming Languages [2022-ISSTA] [[paper](https://arxiv.org/pdf/2205.10956)] [[repo](https://github.com/2022CIRCLE/CIRCLE)]
-1. Towards JavaScript program repair with Generative Pre-trained Transformer (GPT-2) [2022-APR] [[paper](http://publicatio.bibl.u-szeged.hu/25241/1/Lajko-APR22.pdf)] [[repo](https://github.com/AAI-USZ/APR22-JS-GPT)]
-1. Fix Bugs with Transformer through a Neural-Symbolic Edit Grammar [2022-ICLR] [[paper](https://arxiv.org/pdf/2204.06643)]
-1. Patch Generation with Language Models: Feasibility and Scaling Behavior [2022-ICLR] [[paper](https://openreview.net/pdf?id=rHlzJh_b1-5)]
-1. Can OpenAI's codex fix bugs?: an evaluation on QuixBugs [2022-APR] [[paper](https://dl.acm.org/doi/abs/10.1145/3524459.3527351)]
-1. An Analysis of the Automatic Bug Fixing Performance of ChatGPT [2022-APR] [[paper](https://ieeexplore.ieee.org/abstract/document/10189263)] [[repo](https://gitlab.rlp.net/dsobania/chatgpt-apr)]
-1. Less training, more repairing please: revisiting automated program repair via zero-shot learning [2022-FSE/ESEC] [[paer](https://dl.acm.org/doi/pdf/10.1145/3540250.3549101)] [[repo](https://zenodo.org/records/6819444)]
-1. Framing Program Repair as Code Completion [2022-APR] [[paper](http://repositorio.inesctec.pt/bitstreams/2fb3b152-a3ba-4561-ad11-3869b0d245a0/download)] [[repo](https://github.com/FranciscoRibeiro/code-truncater)]
-1. Automated Program Repair in the Era of Large Pre-trained Language Models [2023-ICSE] [[paper](https://web.eecs.umich.edu/~movaghar/IEEE-2023-Automated_Program_Repair_in_the_Era_of_Large_Pre-trained_Language_Models.pdf)] [[repo](https://zenodo.org/records/7592886)]
-1. Repair Is Nearly Generation: Multilingual Program Repair with LLMs [2023-AAAI] [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/25642/25414)]
-1. Retrieval-based prompt selection for code-related few-shot learning [2023-ICSE] [[paper](https://nashid.github.io/resources/papers/cedar-icse23.pdf)] [[repo](https://github.com/prompt-learning/cedar)]
-1. What makes good in-context demonstrations for code intelligence tasks with llms? [2023-ASE] [[paper](https://ieeexplore.ieee.org/abstract/document/10298329)] [[repo](https://github.com/shuzhenggao/ICL4code)]
-1. Fully Autonomous Programming with Large Language Models [2023-GECCO] [[paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)] [[repo](https://github.com/KoutchemeCharles/aied2023)]
-1. Automated Program Repair Using Generative Models for Code Infilling [2023-AIED] [[paper](https://link.springer.com/chapter/10.1007/978-3-031-36272-9_74)] [[repo](https://github.com/KoutchemeCharles/aied2023)]
-1. STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic Bug Fixing [2023-arxiv] [[paper](https://arxiv.org/pdf/2308.14460)]
-1. Conversational automated program repair [2023-arxiv] [[paper](https://arxiv.org/pdf/2301.13246)]
-1. Is ChatGPT the Ultimate Programming Assistant--How far is it? [2023-arxiv] [[paper](https://arxiv.org/pdf/2304.11938)] [[repo](https://github.com/HaoyeTianCoder/ChatGPT-Study)]
-1. Using Large Language Models for Bug Localization and Fixing [2023-iCAST] [[paper](https://u-aizu.ac.jp/~markov/pubs/iCAST_23.pdf)]
-1. An Empirical Study on Fine-Tuning Large Language Models of Code for Automated Program Repair [2023-ASE] [[paper](https://ieeexplore.ieee.org/abstract/document/10298532)] [[repo](https://github.com/LLMC-APR/STUDY)]
-1. An Evaluation of the Effectiveness of OpenAI's ChatGPT for Automated Python Program Bug Fixing using QuixBugs [2023-iSEMANTIC] [[paper](https://ieeexplore.ieee.org/abstract/document/10295323)]
-1. Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each using ChatGPT [2023-arxiv] [[paper](https://arxiv.org/pdf/2304.00385)]
-1. Explainable Automated Debugging via Large Language Model-driven Scientific Debugging [2023-arxiv] [[paper](https://arxiv.org/pdf/2304.02195)]
-1. The Right Prompts for the Job: Repair Code-Review Defects with Large Language Model [2023-arxiv] [[paper](https://arxiv.org/pdf/2312.17485)]
-1. Impact of Code Language Models on Automated Program Repair [2023-ICSE] [[paper](https://arxiv.org/pdf/2302.05020)] [[repo](https://github.com/lin-tan/clm)]
-1. Towards Generating Functionally Correct Code Edits from Natural Language Issue Descriptions [2023-arxiv] [[paper](https://arxiv.org/pdf/2304.03816)]
-1. The Plastic Surgery Hypothesis in the Era of Large Language Models [2023-ASE] [[paper](https://ieeexplore.ieee.org/abstract/document/10298499)] [[repo](https://zenodo.org/records/8244813)]
-1. Exploring the Limits of ChatGPT in Software Security Applications [2023-arxiv] [[paper](https://arxiv.org/pdf/2312.05275)]
-1. CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation [2023-arxiv] [[paper](https://arxiv.org/pdf/2311.08588)] [[repo](https://github.com/WeixiangYAN/CodeScope)]
-1. Enhancing Automated Program Repair through Fine-tuning and Prompt Engineering [2023-arxiv] [[paper](https://lsiddiqsunny.github.io/public/2304.07840.pdf)] [[repo](https://zenodo.org/records/8122636)]
-1. Training Language Models for Programming Feedback Using Automated Repair Tools [2023-AIED] [[paper](https://research.aalto.fi/files/130373931/Training_Language_Models_for_Programming_Feedback_Using_Automated_Repair_Tools.pdf)] [[repo](https://github.com/KoutchemeCharles/aied2023)]
-1. RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair [2023-arxiv] [[paper](https://arxiv.org/pdf/2312.15698)] [[repo](https://anonymous.4open.science/r/repairllama-BC13)]
-1. Automated Code Editing with Search-Generate-Modify [2023-arxiv] [[paper](https://arxiv.org/pdf/2306.06490)] [[repo](https://github.com/SarGAMTEAM/SarGAM.git)]
-1. SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [2023-arxiv] [[paper](https://arxiv.org/pdf/2310.06770)] [[repo](https://www.swebench.com/)]
-1. RAP-Gen: Retrieval-Augmented Patch Generation with CodeT5 for Automatic Program Repair [2023-FSE/ESEC] [[paper](https://arxiv.org/pdf/2309.06057)] [[repo](https://figshare.com/s/a4e95baee01bba14bf4b)]
-1. Neural Program Repair with Program Dependence Analysis and Effective Filter Mechanism [2023-arxiv] [[paper](https://arxiv.org/pdf/2305.09315)]
-1. Coffee: Boost Your Code LLMs by Fixing Bugs with Feedback [2023-arxiv] [[paper](https://arxiv.org/pdf/2311.07215)] [[repo](https://github.com/Lune-Blue/COFFEE)]
-1. A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair [2023-arxiv]  [[paper](https://arxiv.org/pdf/2304.08191)]
-1. Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair [2023-FSE/ESEC] [[paper](https://arxiv.org/pdf/2309.00608)] [[repo](https://github.com/ise-uiuc/Repilot)]
-1. Gamma: Revisiting Template-Based Automated Program Repair Via Mask Prediction [2023-ASE] [[paper](https://arxiv.org/pdf/2309.09308)] [[repo](https://github.com/iSEngLab/GAMMA)]
-1. An Extensive Study on Model Architecture and Program Representation in the Domain of Learning-based Automated Program Repair [2023-APR] [[paper](https://ieeexplore.ieee.org/abstract/document/10189328)] [[repo](https://github.com/AAI-USZ/APR23-representations)]
-1. Improving Automated Program Repair with Domain Adaptation [2023-TOSEM] [[paper](https://arxiv.org/pdf/2212.11414)] [[repo](https://github.com/arminzirak/TFix)]
-1. A Novel Approach for Automatic Program Repair using Round-Trip Translation with Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.07994)] [[repo](https://zenodo.org/records/10500594)]
-1. Out of Context: How important is Local Context in Neural Program Repair? [2024-ICSE] [[paper](https://arxiv.org/pdf/2312.04986)] [[repo](https://github.com/giganticode/out_of_context_paper_data)]
-1. CURE Code-Aware Neural Machine Translation for Automatic Program Repair [2021-ICSE] [[paper](https://arxiv.org/pdf/2103.00073)] [[repo](https://github.com/lin-tan/CURE)]
-1. DEAR A Novel Deep Learning-based Approach for Automated Program Repair [2022-ICSE] [[paper](https://dl.acm.org/doi/pdf/10.1145/3510003.3510177)] [[repo](https://github.com/AutomatedProgramRepair-2021/dear-auto-fix)]
-1. ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs [2024-arxiv] [[paper](https://arxiv.org/pdf/2403.01971)]
-1. Exploring the Potential of Pre-Trained Language Models of Code for Automated Program Repair [2024-Electronics] [[paper](https://www.mdpi.com/2079-9292/13/7/1200)]
-1. Enhancing Code Language Models for Program Repair by Curricular Fine-tuning Framework [2023-ICSME] [[paper](https://ieeexplore.ieee.org/abstract/document/10336339)]
-1. CigaR: Cost-efficient Program Repair with LLMs [2024-arxiv] [[paper](https://arxiv.org/pdf/2402.06598)] [[repo](https://github.com/ASSERT-KTH/cigar)]
-1. A Novel Approach for Automated Program Repair using Round-Trip Translation with Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.07994)] [[repo](https://zenodo.org/records/10500594)]
-1. GitBug-Java: A Reproducible Benchmark of Recent Java Bugs [2024-arxiv] [[paper](https://arxiv.org/pdf/2402.02961)] [[repo](https://github.com/gitbugactions/gitbug-java)]
-1. The potential use of ChatGPT for debugging and bug fixing [2023-] [[paper](https://oulurepo.oulu.fi/bitstream/handle/10024/44572/nbnfi-fe20231006139025.pdf?sequence=1)]
-1. RepairAgent: An Autonomous, LLM-Based Agent for Program Repair [2024-arxiv] [[paper](https://arxiv.org/pdf/2403.17134)]
-
+2. Applying CodeBERT for Automated Program Repair of Java Simple Bugs [2021-MSR] [[paper](https://arxiv.org/pdf/2103.11626)] [[repo](https://github.com/EhsanMashhadi/MSR2021-ProgramRepair)]
+3. CIRCLE: Continual Repair across Programming Languages [2022-ISSTA] [[paper](https://arxiv.org/pdf/2205.10956)] [[repo](https://github.com/2022CIRCLE/CIRCLE)]
+4. Towards JavaScript program repair with Generative Pre-trained Transformer (GPT-2) [2022-APR] [[paper](http://publicatio.bibl.u-szeged.hu/25241/1/Lajko-APR22.pdf)] [[repo](https://github.com/AAI-USZ/APR22-JS-GPT)]
+5. Fix Bugs with Transformer through a Neural-Symbolic Edit Grammar [2022-ICLR] [[paper](https://arxiv.org/pdf/2204.06643)]
+6. Patch Generation with Language Models: Feasibility and Scaling Behavior [2022-ICLR] [[paper](https://openreview.net/pdf?id=rHlzJh_b1-5)]
+7. Can OpenAI's codex fix bugs?: an evaluation on QuixBugs [2022-APR] [[paper](https://dl.acm.org/doi/abs/10.1145/3524459.3527351)]
+8. An Analysis of the Automatic Bug Fixing Performance of ChatGPT [2022-APR] [[paper](https://ieeexplore.ieee.org/abstract/document/10189263)] [[repo](https://gitlab.rlp.net/dsobania/chatgpt-apr)]
+9. Less training, more repairing please: revisiting automated program repair via zero-shot learning [2022-FSE/ESEC] [[paer](https://dl.acm.org/doi/pdf/10.1145/3540250.3549101)] [[repo](https://zenodo.org/records/6819444)]
+10. Framing Program Repair as Code Completion [2022-APR] [[paper](http://repositorio.inesctec.pt/bitstreams/2fb3b152-a3ba-4561-ad11-3869b0d245a0/download)] [[repo](https://github.com/FranciscoRibeiro/code-truncater)]
+11. Automated Program Repair in the Era of Large Pre-trained Language Models [2023-ICSE] [[paper](https://web.eecs.umich.edu/~movaghar/IEEE-2023-Automated_Program_Repair_in_the_Era_of_Large_Pre-trained_Language_Models.pdf)] [[repo](https://zenodo.org/records/7592886)]
+12. Repair Is Nearly Generation: Multilingual Program Repair with LLMs [2023-AAAI] [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/25642/25414)]
+13. Retrieval-based prompt selection for code-related few-shot learning [2023-ICSE] [[paper](https://nashid.github.io/resources/papers/cedar-icse23.pdf)] [[repo](https://github.com/prompt-learning/cedar)]
+14. What makes good in-context demonstrations for code intelligence tasks with llms? [2023-ASE] [[paper](https://ieeexplore.ieee.org/abstract/document/10298329)] [[repo](https://github.com/shuzhenggao/ICL4code)]
+15. Fully Autonomous Programming with Large Language Models [2023-GECCO] [[paper](https://dl.acm.org/doi/pdf/10.1145/3583131.3590481)] [[repo](https://github.com/KoutchemeCharles/aied2023)]
+16. Automated Program Repair Using Generative Models for Code Infilling [2023-AIED] [[paper](https://link.springer.com/chapter/10.1007/978-3-031-36272-9_74)] [[repo](https://github.com/KoutchemeCharles/aied2023)]
+17. STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic Bug Fixing [2023-arxiv] [[paper](https://arxiv.org/pdf/2308.14460)]
+18. Conversational automated program repair [2023-arxiv] [[paper](https://arxiv.org/pdf/2301.13246)]
+19. Is ChatGPT the Ultimate Programming Assistant--How far is it? [2023-arxiv] [[paper](https://arxiv.org/pdf/2304.11938)] [[repo](https://github.com/HaoyeTianCoder/ChatGPT-Study)]
+20. Using Large Language Models for Bug Localization and Fixing [2023-iCAST] [[paper](https://u-aizu.ac.jp/~markov/pubs/iCAST_23.pdf)]
+21. An Empirical Study on Fine-Tuning Large Language Models of Code for Automated Program Repair [2023-ASE] [[paper](https://ieeexplore.ieee.org/abstract/document/10298532)] [[repo](https://github.com/LLMC-APR/STUDY)]
+22. An Evaluation of the Effectiveness of OpenAI's ChatGPT for Automated Python Program Bug Fixing using QuixBugs [2023-iSEMANTIC] [[paper](https://ieeexplore.ieee.org/abstract/document/10295323)]
+23. Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each using ChatGPT [2023-arxiv] [[paper](https://arxiv.org/pdf/2304.00385)]
+24. Explainable Automated Debugging via Large Language Model-driven Scientific Debugging [2023-arxiv] [[paper](https://arxiv.org/pdf/2304.02195)]
+25. The Right Prompts for the Job: Repair Code-Review Defects with Large Language Model [2023-arxiv] [[paper](https://arxiv.org/pdf/2312.17485)]
+26. Impact of Code Language Models on Automated Program Repair [2023-ICSE] [[paper](https://arxiv.org/pdf/2302.05020)] [[repo](https://github.com/lin-tan/clm)]
+27. Towards Generating Functionally Correct Code Edits from Natural Language Issue Descriptions [2023-arxiv] [[paper](https://arxiv.org/pdf/2304.03816)]
+28. The Plastic Surgery Hypothesis in the Era of Large Language Models [2023-ASE] [[paper](https://ieeexplore.ieee.org/abstract/document/10298499)] [[repo](https://zenodo.org/records/8244813)]
+29. Exploring the Limits of ChatGPT in Software Security Applications [2023-arxiv] [[paper](https://arxiv.org/pdf/2312.05275)]
+30. CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation [2023-arxiv] [[paper](https://arxiv.org/pdf/2311.08588)] [[repo](https://github.com/WeixiangYAN/CodeScope)]
+31. Enhancing Automated Program Repair through Fine-tuning and Prompt Engineering [2023-arxiv] [[paper](https://lsiddiqsunny.github.io/public/2304.07840.pdf)] [[repo](https://zenodo.org/records/8122636)]
+32. Training Language Models for Programming Feedback Using Automated Repair Tools [2023-AIED] [[paper](https://research.aalto.fi/files/130373931/Training_Language_Models_for_Programming_Feedback_Using_Automated_Repair_Tools.pdf)] [[repo](https://github.com/KoutchemeCharles/aied2023)]
+33. RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair [2023-arxiv] [[paper](https://arxiv.org/pdf/2312.15698)] [[repo](https://anonymous.4open.science/r/repairllama-BC13)]
+34. Automated Code Editing with Search-Generate-Modify [2023-arxiv] [[paper](https://arxiv.org/pdf/2306.06490)] [[repo](https://github.com/SarGAMTEAM/SarGAM.git)]
+35. RAP-Gen: Retrieval-Augmented Patch Generation with CodeT5 for Automatic Program Repair [2023-FSE/ESEC] [[paper](https://arxiv.org/pdf/2309.06057)] [[repo](https://figshare.com/s/a4e95baee01bba14bf4b)]
+36. Neural Program Repair with Program Dependence Analysis and Effective Filter Mechanism [2023-arxiv] [[paper](https://arxiv.org/pdf/2305.09315)]
+37. Coffee: Boost Your Code LLMs by Fixing Bugs with Feedback [2023-arxiv] [[paper](https://arxiv.org/pdf/2311.07215)] [[repo](https://github.com/Lune-Blue/COFFEE)]
+38. A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair [2023-arxiv]  [[paper](https://arxiv.org/pdf/2304.08191)]
+39. Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair [2023-FSE/ESEC] [[paper](https://arxiv.org/pdf/2309.00608)] [[repo](https://github.com/ise-uiuc/Repilot)]
+40. Gamma: Revisiting Template-Based Automated Program Repair Via Mask Prediction [2023-ASE] [[paper](https://arxiv.org/pdf/2309.09308)] [[repo](https://github.com/iSEngLab/GAMMA)]
+41. An Extensive Study on Model Architecture and Program Representation in the Domain of Learning-based Automated Program Repair [2023-APR] [[paper](https://ieeexplore.ieee.org/abstract/document/10189328)] [[repo](https://github.com/AAI-USZ/APR23-representations)]
+42. Improving Automated Program Repair with Domain Adaptation [2023-TOSEM] [[paper](https://arxiv.org/pdf/2212.11414)] [[repo](https://github.com/arminzirak/TFix)]
+43. A Novel Approach for Automatic Program Repair using Round-Trip Translation with Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.07994)] [[repo](https://zenodo.org/records/10500594)]
+44. Out of Context: How important is Local Context in Neural Program Repair? [2024-ICSE] [[paper](https://arxiv.org/pdf/2312.04986)] [[repo](https://github.com/giganticode/out_of_context_paper_data)]
+45. CURE Code-Aware Neural Machine Translation for Automatic Program Repair [2021-ICSE] [[paper](https://arxiv.org/pdf/2103.00073)] [[repo](https://github.com/lin-tan/CURE)]
+46. DEAR A Novel Deep Learning-based Approach for Automated Program Repair [2022-ICSE] [[paper](https://dl.acm.org/doi/pdf/10.1145/3510003.3510177)] [[repo](https://github.com/AutomatedProgramRepair-2021/dear-auto-fix)]
+47. ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs [2024-arxiv] [[paper](https://arxiv.org/pdf/2403.01971)]
+48. Exploring the Potential of Pre-Trained Language Models of Code for Automated Program Repair [2024-Electronics] [[paper](https://www.mdpi.com/2079-9292/13/7/1200)]
+49. Enhancing Code Language Models for Program Repair by Curricular Fine-tuning Framework [2023-ICSME] [[paper](https://ieeexplore.ieee.org/abstract/document/10336339)]
+50. CigaR: Cost-efficient Program Repair with LLMs [2024-arxiv] [[paper](https://arxiv.org/pdf/2402.06598)] [[repo](https://github.com/ASSERT-KTH/cigar)]
+51. A Novel Approach for Automated Program Repair using Round-Trip Translation with Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.07994)] [[repo](https://zenodo.org/records/10500594)]
+52. The potential use of ChatGPT for debugging and bug fixing [2023-] [[paper](https://oulurepo.oulu.fi/bitstream/handle/10024/44572/nbnfi-fe20231006139025.pdf?sequence=1)]
+53. RepairAgent: An Autonomous, LLM-Based Agent for Program Repair [2024-arxiv] [[paper](https://arxiv.org/pdf/2403.17134)]
+54. A Deep Dive into Large Language Models for Automated Bug Localization and Repair [2024-FSE/ESEC] [[paper](https://arxiv.org/pdf/2404.11595)]
 
 ### Security Vulnerability
 
@@ -218,16 +229,12 @@
 
 1. DrPlanner: Diagnosis and Repair of Motion Planners Using Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2403.07470)] [[repo](https://github.com/CommonRoad/drplanner)]
 
-### N.A.
 
-3. CodeEditorBench: Evaluating Code Editing Capability of Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.03543)] [[repo](https://github.com/CodeEditorBench/CodeEditorBench)]
-4. A Deep Dive into Large Language Models for Automated Bug Localization and Repair [2024-FSE/ESEC] [[paper](https://arxiv.org/pdf/2404.11595)]
-
-### Human Study
+## 🙆 Human Study
 1. An Empirical Study of Adoption of ChatGPT for Bug Fixing among Professional Developers [2023-ITA] [[paper](https://bergersci.com/index.php/jta/article/download/19/20)]
 2. Exploring Experiences with Automated Program Repair in Practice [2024-ICSE] [[paper](https://dl.acm.org/doi/pdf/10.1145/3597503.3639182)]
 
-### Patch Correctness Assessment
+## 🙅 Patch Correctness Assessment
 
 1. Evaluating representation learning of code changes for predicting patch correctness in program repair [2020-ASE] [[paper](https://arxiv.org/pdf/2008.02944)] [[repo](https://github.com/TruX-DTF/DL4PatchCorrectness)]
 2. Is this Change the Answer to that Problem? Correlating Descriptions of Bug and Code Changes for Evaluating Patch Correctness [2021-ASE] [[paper](https://dl.acm.org/doi/pdf/10.1145/3551349.3556914)] [[repo](https://github.com/Trustworthy-Software/Quatrain)]
@@ -235,4 +242,8 @@
 4. Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning [2023-TSE] [[paper](https://arxiv.org/pdf/2301.01113)] [[repo](https://github.com/thanhlecongg/Invalidator)]
 5. APPT Boosting Automated Patch Correctness Prediction via Pre-trained Language Model [2024-TSE] [[paper](https://arxiv.org/pdf/2301.12453)] [[repo](https://github.com/iSEngLab/APPT)]
 6. PatchZero: Zero-Shot Automatic Patch Correctness Assessment [2023-arxiv] [[paper](https://arxiv.org/pdf/2303.00202)]
+
+## 📊 Benchmark
+1. CodeEditorBench: Evaluating Code Editing Capability of Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.03543)] [[repo](https://github.com/CodeEditorBench/CodeEditorBench)]
+1. GitBug-Java: A Reproducible Benchmark of Recent Java Bugs [2024-arxiv] [[paper](https://arxiv.org/pdf/2402.02961)] [[repo](https://github.com/gitbugactions/gitbug-java)]
 

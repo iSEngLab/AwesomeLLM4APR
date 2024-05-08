@@ -155,8 +155,8 @@
 
 ### Programming Problem
 
-1. A Unified Debugging Approach via LLM-Based Multi-Agent Synergy [2025-ICSE] [[paper](https://arxiv.org/pdf/2404.17153)] [[repo]([afortunado-aceptado/Rudra: This repo is for our submission for ICSE 2025. (github.com)](https://github.com/afortunado-aceptado/Rudra))]
-2. PyDex: Repairing Bugs in Introductory Python Assignments using LLMs [2024-OOPSLA] [[paper](https://dl.acm.org/doi/pdf/10.1145/3649850)] [[repo]([prose-benchmarks/PyDex at main · microsoft/prose-benchmarks (github.com)](https://github.com/microsoft/prose-benchmarks/tree/main/PyDex))]
+1. A Unified Debugging Approach via LLM-Based Multi-Agent Synergy [2025-ICSE] [[paper](https://arxiv.org/pdf/2404.17153)] [[repo](https://github.com/afortunado-aceptado/Rudra)]
+2. PyDex: Repairing Bugs in Introductory Python Assignments using LLMs [2024-OOPSLA] [[paper](https://dl.acm.org/doi/pdf/10.1145/3649850)] [[repo](https://github.com/microsoft/prose-benchmarks/tree/main/PyDex)]
 3. DebugBench: Evaluating Debugging Capability of Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.04621)] [[repo](https://github.com/thunlp/DebugBench)]
 4. ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs [2024-arxiv] [[paper](https://arxiv.org/pdf/2403.01971)]
 5. ConDefects: A New Dataset to Address the Data Leakage Concern for LLM-based Fault Localization and Program Repair [2024-arxiv] [[paper](https://arxiv.org/pdf/2310.16253)] [[repo](https://github.com/appmlk/ConDefects)]

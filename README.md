@@ -49,7 +49,7 @@
 ## 💡 Repair Scenarios 
 ### Semantic Bug
 
-1. A Unified Debugging Approach via LLM-Based Multi-Agent Synergy [2025-ICSE] [[paper](https://arxiv.org/pdf/2404.17153)] [[repo]([afortunado-aceptado/Rudra: This repo is for our submission for ICSE 2025. (github.com)](https://github.com/afortunado-aceptado/Rudra))]
+1. A Unified Debugging Approach via LLM-Based Multi-Agent Synergy [2025-ICSE] [[paper](https://arxiv.org/pdf/2404.17153)] [[repo](https://github.com/afortunado-aceptado/Rudra)]
 2. How Far Can We Go with Practical Function-Level Program Repair? [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.12833)] [[repo](https://github.com/GhabiX/SRepair)]
 3. A Novel Approach for Automatic Program Repair using Round-Trip Translation with Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.07994)] [[repo](https://zenodo.org/records/10500594)]
 4. Out of Context: How important is Local Context in Neural Program Repair? [2024-ICSE] [[paper](https://arxiv.org/pdf/2312.04986)] [[repo](https://github.com/giganticode/out_of_context_paper_data)]

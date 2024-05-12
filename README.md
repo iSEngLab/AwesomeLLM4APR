@@ -49,8 +49,8 @@
 ## 💡 Repair Scenarios 
 ### Semantic Bug
 
-1. A Unified Debugging Approach via LLM-Based Multi-Agent Synergy [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.17153)] [[repo](https://github.com/afortunado-aceptado/Rudra)]
-2. How Far Can We Go with Practical Function-Level Program Repair? [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.12833)] [[repo](https://github.com/GhabiX/SRepair)]
+1. 🔥A Unified Debugging Approach via LLM-Based Multi-Agent Synergy [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.17153)] [[repo](https://github.com/afortunado-aceptado/Rudra)]
+2. 🔥How Far Can We Go with Practical Function-Level Program Repair? [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.12833)] [[repo](https://github.com/GhabiX/SRepair)]
 3. A Novel Approach for Automatic Program Repair using Round-Trip Translation with Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.07994)] [[repo](https://zenodo.org/records/10500594)]
 4. Out of Context: How important is Local Context in Neural Program Repair? [2024-ICSE] [[paper](https://arxiv.org/pdf/2312.04986)] [[repo](https://github.com/giganticode/out_of_context_paper_data)]
 5. Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.12636)]
@@ -111,7 +111,7 @@
 
 ### Security Vulnerability
 
-1. NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair [2024-arxiv] [[paper](https://arxiv.org/abs/2405.04994)]
+1. 🔥NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair [2024-arxiv] [[paper](https://arxiv.org/abs/2405.04994)]
 2. Enhanced Automated Code Vulnerability Repair using Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.03741)]
 
 3. Out of Sight, Out of Mind: Better Automatic Vulnerability Repair by Broadening Input Ranges and Sources [2024-ICSE] [[paper](https://dl.acm.org/doi/pdf/10.1145/3597503.3639222)] [[repo](https://github.com/soarsmu/VulMaster_)]

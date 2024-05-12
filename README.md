@@ -111,35 +111,36 @@
 
 ### Security Vulnerability
 
-1. Enhanced Automated Code Vulnerability Repair using Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.03741)]
+1. NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair [2024-arxiv] [[paper](https://arxiv.org/abs/2405.04994)]
+2. Enhanced Automated Code Vulnerability Repair using Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.03741)]
 
-2. Out of Sight, Out of Mind: Better Automatic Vulnerability Repair by Broadening Input Ranges and Sources [2024-ICSE] [[paper](https://dl.acm.org/doi/pdf/10.1145/3597503.3639222)] [[repo](https://github.com/soarsmu/VulMaster_)]
+3. Out of Sight, Out of Mind: Better Automatic Vulnerability Repair by Broadening Input Ranges and Sources [2024-ICSE] [[paper](https://dl.acm.org/doi/pdf/10.1145/3597503.3639222)] [[repo](https://github.com/soarsmu/VulMaster_)]
 
-3. A Study of Vulnerability Repair in JavaScript Programs with Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2403.13193)] [[repo](https://doi.org/10.5281/zenodo.10783763)]
+4. A Study of Vulnerability Repair in JavaScript Programs with Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2403.13193)] [[repo](https://doi.org/10.5281/zenodo.10783763)]
 
-4. Chain-of-Thought Prompting of Large Language Models for Discovering and Fixing Software Vulnerabilities [2024-arxiv] [[paper](https://arxiv.org/pdf/2402.17230)]
+5. Chain-of-Thought Prompting of Large Language Models for Discovering and Fixing Software Vulnerabilities [2024-arxiv] [[paper](https://arxiv.org/pdf/2402.17230)]
 
-5. Pre-trained Model-based Automated Software Vulnerability Repair: How Far are We? [2023-TDSC] [[paper](https://arxiv.org/pdf/2308.12533)] [[repo](https://github.com/iSEngLab/LLM4VulFix)]
+6. Pre-trained Model-based Automated Software Vulnerability Repair: How Far are We? [2023-TDSC] [[paper](https://arxiv.org/pdf/2308.12533)] [[repo](https://github.com/iSEngLab/LLM4VulFix)]
 
-6. Examining zero-shot vulnerability repair with large language models [2023-S&P] [[paper](https://arxiv.org/pdf/2112.02125)] [[repo](https://drive.google.com/drive/folders/1xJ-z2Wvvg7JSaxfTQdxayXFEmoF3y0ET?usp=sharing)]
+7. Examining zero-shot vulnerability repair with large language models [2023-S&P] [[paper](https://arxiv.org/pdf/2112.02125)] [[repo](https://drive.google.com/drive/folders/1xJ-z2Wvvg7JSaxfTQdxayXFEmoF3y0ET?usp=sharing)]
 
-7. An Empirical Study on Fine-Tuning Large Language Models of Code for Automated Program Repair [2023-ASE] [[paper](https://ieeexplore.ieee.org/abstract/document/10298532)] [[repo](https://github.com/LLMC-APR/STUDY)]
+8. An Empirical Study on Fine-Tuning Large Language Models of Code for Automated Program Repair [2023-ASE] [[paper](https://ieeexplore.ieee.org/abstract/document/10298532)] [[repo](https://github.com/LLMC-APR/STUDY)]
 
-8. A New Era in Software Security: Towards Self-Healing Software via Large Language Models and Formal Verification [2023-arxiv] [[paper](https://arxiv.org/pdf/2305.14752)]
+9. A New Era in Software Security: Towards Self-Healing Software via Large Language Models and Formal Verification [2023-arxiv] [[paper](https://arxiv.org/pdf/2305.14752)]
 
-9. Exploring the Limits of ChatGPT in Software Security Applications [2023-arxiv] [[paper](https://arxiv.org/pdf/2312.05275)]
+10. Exploring the Limits of ChatGPT in Software Security Applications [2023-arxiv] [[paper](https://arxiv.org/pdf/2312.05275)]
 
-10. ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel Patching [2023-arxiv] [[paper](https://arxiv.org/pdf/2308.13062)]
+11. ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel Patching [2023-arxiv] [[paper](https://arxiv.org/pdf/2308.13062)]
 
-11. How ChatGPT is Solving Vulnerability Management Problem [2023-arxiv] [[paper](https://arxiv.org/pdf/2311.06530)] [[repo](https://anonymous.4open.science/r/DefectManagementEvaluation-0411)]
+12. How ChatGPT is Solving Vulnerability Management Problem [2023-arxiv] [[paper](https://arxiv.org/pdf/2311.06530)] [[repo](https://anonymous.4open.science/r/DefectManagementEvaluation-0411)]
 
-12. How Effective Are Neural Networks for Fixing Security Vulnerabilities [2023-ISSTA] [[paper](https://dl.acm.org/doi/pdf/10.1145/3597926.3598135)] [[repo](https://github.com/lin-tan/llm-vul)]
+13. How Effective Are Neural Networks for Fixing Security Vulnerabilities [2023-ISSTA] [[paper](https://dl.acm.org/doi/pdf/10.1145/3597926.3598135)] [[repo](https://github.com/lin-tan/llm-vul)]
 
-13. Vision Transformer-Inspired Automated Vulnerability Repair [2023-TOSEM] [[paper](https://www.researchgate.net/profile/Michael-Fu-8/publication/375618720_Vision_Transformer-Inspired_Automated_Vulnerability_Repair/links/65a9b875ee1e1951fbbe6538/Vision-Transformer-Inspired-Automated-Vulnerability-Repair.pdf)] [[repo](https://github.com/awsm-research/VQM)]
+14. Vision Transformer-Inspired Automated Vulnerability Repair [2023-TOSEM] [[paper](https://www.researchgate.net/profile/Michael-Fu-8/publication/375618720_Vision_Transformer-Inspired_Automated_Vulnerability_Repair/links/65a9b875ee1e1951fbbe6538/Vision-Transformer-Inspired-Automated-Vulnerability-Repair.pdf)] [[repo](https://github.com/awsm-research/VQM)]
 
-14. Can large language models find and fix vulnerable software? [2023-arxiv] [[paper](https://arxiv.org/pdf/2308.10345)]
+15. Can large language models find and fix vulnerable software? [2023-arxiv] [[paper](https://arxiv.org/pdf/2308.10345)]
 
-15. VulRepair: A T5-Based Automated Software Vulnerability Repair [2022-FSE/ESEC] [[paper](https://www.researchgate.net/profile/Chakkrit-Tantithamthavorn/publication/362092639_VulRepair_A_T5-Based_Automated_Software_Vulnerability_Repair/links/6345ea1076e39959d6b73228/VulRepair-A-T5-Based-Automated-Software-Vulnerability-Repair.pdf)] [[repo](https://github.com/awsm-research/VulRepair)]
+16. VulRepair: A T5-Based Automated Software Vulnerability Repair [2022-FSE/ESEC] [[paper](https://www.researchgate.net/profile/Chakkrit-Tantithamthavorn/publication/362092639_VulRepair_A_T5-Based_Automated_Software_Vulnerability_Repair/links/6345ea1076e39959d6b73228/VulRepair-A-T5-Based-Automated-Software-Vulnerability-Repair.pdf)] [[repo](https://github.com/awsm-research/VulRepair)]
 
     
 

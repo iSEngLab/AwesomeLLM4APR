@@ -46,6 +46,9 @@
 
 ```
 
+## 🔥🔥 New Papers
+1. Automated Program Repair for Introductory Programming Assignments [2024-TLT] [[Paper](https://ieeexplore.ieee.org/document/10535720/)]
+
 ## 💡 Repair Scenarios 
 ### Semantic Bug
 

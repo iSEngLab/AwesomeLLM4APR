@@ -159,7 +159,7 @@
 
 ### Programming Problem
 
-1. A Unified Debugging Approach via LLM-Based Multi-Agent Synergy [2025-ICSE] [[paper](https://arxiv.org/pdf/2404.17153)] [[repo](https://github.com/afortunado-aceptado/Rudra)]
+1. A Unified Debugging Approach via LLM-Based Multi-Agent Synergy [2024-arXiv] [[paper](https://arxiv.org/pdf/2404.17153)] [[repo](https://github.com/afortunado-aceptado/Rudra)]
 2. PyDex: Repairing Bugs in Introductory Python Assignments using LLMs [2024-OOPSLA] [[paper](https://dl.acm.org/doi/pdf/10.1145/3649850)] [[repo](https://github.com/microsoft/prose-benchmarks/tree/main/PyDex)]
 3. DebugBench: Evaluating Debugging Capability of Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.04621)] [[repo](https://github.com/thunlp/DebugBench)]
 4. ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs [2024-arxiv] [[paper](https://arxiv.org/pdf/2403.01971)]

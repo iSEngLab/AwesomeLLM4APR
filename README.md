@@ -52,7 +52,7 @@
 3. CraftRTL: High-quality Synthetic Data Generation for Verilog Code Models with Correct-by-Construction Non-Textual Representations and Targeted Code Repair [2024-arXiv-NVIDIA] [[paper](https://arxiv.org/abs/2409.12993)]
 4. Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs [2024-ISSTA]  [[paper](https://dl.acm.org/doi/10.1145/3650212.3652140)]
 5. Automated program repair via conversation: Fixing 162 out of 337 bugs for $0.42 each using chatgpt[2024-ISSTA] [[paper](https://dl.acm.org/doi/10.1145/3650212.3680323)]
-6. Leveraging Large Language Model for Automatic Patch Correctness Assessment[2024-TSE] [[paper] (https://ieeexplore.ieee.org/document/10659742)]
+6. Leveraging Large Language Model for Automatic Patch Correctness Assessment[2024-TSE] [[paper](https://ieeexplore.ieee.org/document/10659742)]
 7. Automated program repair for variability bugs in software product line systems[2024-JSS] [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121224001973)]
 8. PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs[2024-IEEE Access] [[paper](https://ieeexplore.ieee.org/document/10644000)]
 

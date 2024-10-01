@@ -32,6 +32,7 @@
 - [🙆 Human Study](#-human-study)
 - [🙅 Patch Correctness Assessment](#-patch-correctness-assessment)
 - [📊 Benchmark](#-benchmark)
+- [🤔 Related APR Surveys](#-related-apr-surveys)
 
 
 ## 👏 Citation
@@ -294,4 +295,9 @@
 7. A critical review of large language model on software engineering: An example from chatgpt and automated program repair [2023-arxiv] [[paper](https://arxiv.org/pdf/2310.08879)] [[repo](https://github.com/iSEngLab/EvalGPTFix)]
 8. CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation [2023-arxiv] [[paper](https://arxiv.org/pdf/2311.08588)] [[repo](https://github.com/WeixiangYAN/CodeScope)]
 9. FixEval: Execution-based Evaluation of Program Fixes for Programming Problems [2023-APR] [[paper](https://arxiv.org/pdf/2206.07796)] [[repo](https://github.com/mahimanzum/FixEval)]
+
+## 🤔 Related APR Surveys
+1. A Survey of Learning-based Automated Program Repair [2023-TOSEM] [[paper](https://arxiv.org/abs/2301.03270)] [[repo](https://github.com/iSEngLab/AwesomeLearningAPR)]
+2. Automatic Software Repair: A Bibliography [2018-CSUR] [paper](https://dl.acm.org/doi/10.1145/3105906)]
+3. Automatic Software Repair: A Survey [2017-TSE] [paper](https://dl.acm.org/doi/10.1109/TSE.2017.2755013)]
 

@@ -302,3 +302,6 @@
 2. Automatic Software Repair: A Bibliography [2018-CSUR] [paper](https://dl.acm.org/doi/10.1145/3105906)]
 3. Automatic Software Repair: A Survey [2017-TSE] [paper](https://dl.acm.org/doi/10.1109/TSE.2017.2755013)]
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=iSEngLab/AwesomeLLM4APR&type=Date)](https://star-history.com/#iSEngLab/AwesomeLLM4APR&Date)

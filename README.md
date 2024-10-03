@@ -47,6 +47,12 @@
 
 ```
 
+# 🚗Todo List
+
+- [ ] add SE agent-based studies for GitHub Issues
+
+
+
 ## 🔥🔥 New Papers
 1. Automated Program Repair for Introductory Programming Assignments [2024-TLT] [[paper](https://ieeexplore.ieee.org/document/10535720/)]
 2. Automated Repair of AI Code with Large Language Models and Formal Verification [2024-arXiv] [[paper](https://arxiv.org/abs/2405.08848)]

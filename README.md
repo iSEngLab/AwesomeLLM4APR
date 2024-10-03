@@ -248,6 +248,7 @@
 ### Test Case
 
 1. Automated Test Case Repair Using Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.06765)]
+2. Identify and Update Test Cases when Production Code Changes: A Transformer-based Approach [2023-ASE]
 
 ### Formal Proof
 

@@ -54,15 +54,16 @@
 
 
 ## 🔥🔥 New Papers
-1. From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging [2024-arXiv] [[paper](https://arxiv.org/abs/2410.01215)] [[repo](https://github.com/YerbaPage/MGDebugger)]
-2. Automated Program Repair for Introductory Programming Assignments [2024-TLT] [[paper](https://ieeexplore.ieee.org/document/10535720/)]
-3. Automated Repair of AI Code with Large Language Models and Formal Verification [2024-arXiv] [[paper](https://arxiv.org/abs/2405.08848)]
-4. CraftRTL: High-quality Synthetic Data Generation for Verilog Code Models with Correct-by-Construction Non-Textual Representations and Targeted Code Repair [2024-arXiv-NVIDIA] [[paper](https://arxiv.org/abs/2409.12993)]
-5. Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs [2024-ISSTA]  [[paper](https://dl.acm.org/doi/10.1145/3650212.3652140)]
-6. Automated program repair via conversation: Fixing 162 out of 337 bugs for $0.42 each using chatgpt[2024-ISSTA] [[paper](https://dl.acm.org/doi/10.1145/3650212.3680323)]
-7. Leveraging Large Language Model for Automatic Patch Correctness Assessment[2024-TSE] [[paper](https://ieeexplore.ieee.org/document/10659742)]
-8. Automated program repair for variability bugs in software product line systems[2024-JSS] [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121224001973)]
-9. PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs[2024-IEEE Access] [[paper](https://ieeexplore.ieee.org/document/10644000)]
+1. Divide-and-Conquer: Automating Code Revisions via Localization-and-Revision [2024-TOSEM]
+2. From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging [2024-arXiv] [[paper](https://arxiv.org/abs/2410.01215)] [[repo](https://github.com/YerbaPage/MGDebugger)]
+3. Automated Program Repair for Introductory Programming Assignments [2024-TLT] [[paper](https://ieeexplore.ieee.org/document/10535720/)]
+4. Automated Repair of AI Code with Large Language Models and Formal Verification [2024-arXiv] [[paper](https://arxiv.org/abs/2405.08848)]
+5. CraftRTL: High-quality Synthetic Data Generation for Verilog Code Models with Correct-by-Construction Non-Textual Representations and Targeted Code Repair [2024-arXiv-NVIDIA] [[paper](https://arxiv.org/abs/2409.12993)]
+6. Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs [2024-ISSTA]  [[paper](https://dl.acm.org/doi/10.1145/3650212.3652140)]
+7. Automated program repair via conversation: Fixing 162 out of 337 bugs for $0.42 each using chatgpt[2024-ISSTA] [[paper](https://dl.acm.org/doi/10.1145/3650212.3680323)]
+8. Leveraging Large Language Model for Automatic Patch Correctness Assessment[2024-TSE] [[paper](https://ieeexplore.ieee.org/document/10659742)]
+9. Automated program repair for variability bugs in software product line systems[2024-JSS] [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121224001973)]
+10. PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs[2024-IEEE Access] [[paper](https://ieeexplore.ieee.org/document/10644000)]
 
 ## 💡 Repair Scenarios 
 ### Semantic Bug

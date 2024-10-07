@@ -54,14 +54,15 @@
 
 
 ## 🔥🔥 New Papers
-1. Automated Program Repair for Introductory Programming Assignments [2024-TLT] [[paper](https://ieeexplore.ieee.org/document/10535720/)]
-2. Automated Repair of AI Code with Large Language Models and Formal Verification [2024-arXiv] [[paper](https://arxiv.org/abs/2405.08848)]
-3. CraftRTL: High-quality Synthetic Data Generation for Verilog Code Models with Correct-by-Construction Non-Textual Representations and Targeted Code Repair [2024-arXiv-NVIDIA] [[paper](https://arxiv.org/abs/2409.12993)]
-4. Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs [2024-ISSTA]  [[paper](https://dl.acm.org/doi/10.1145/3650212.3652140)]
-5. Automated program repair via conversation: Fixing 162 out of 337 bugs for $0.42 each using chatgpt[2024-ISSTA] [[paper](https://dl.acm.org/doi/10.1145/3650212.3680323)]
-6. Leveraging Large Language Model for Automatic Patch Correctness Assessment[2024-TSE] [[paper](https://ieeexplore.ieee.org/document/10659742)]
-7. Automated program repair for variability bugs in software product line systems[2024-JSS] [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121224001973)]
-8. PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs[2024-IEEE Access] [[paper](https://ieeexplore.ieee.org/document/10644000)]
+1. From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging [2024-arXiv] [[paper](https://arxiv.org/abs/2410.01215)] [[repo](https://github.com/YerbaPage/MGDebugger)]
+2. Automated Program Repair for Introductory Programming Assignments [2024-TLT] [[paper](https://ieeexplore.ieee.org/document/10535720/)]
+3. Automated Repair of AI Code with Large Language Models and Formal Verification [2024-arXiv] [[paper](https://arxiv.org/abs/2405.08848)]
+4. CraftRTL: High-quality Synthetic Data Generation for Verilog Code Models with Correct-by-Construction Non-Textual Representations and Targeted Code Repair [2024-arXiv-NVIDIA] [[paper](https://arxiv.org/abs/2409.12993)]
+5. Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs [2024-ISSTA]  [[paper](https://dl.acm.org/doi/10.1145/3650212.3652140)]
+6. Automated program repair via conversation: Fixing 162 out of 337 bugs for $0.42 each using chatgpt[2024-ISSTA] [[paper](https://dl.acm.org/doi/10.1145/3650212.3680323)]
+7. Leveraging Large Language Model for Automatic Patch Correctness Assessment[2024-TSE] [[paper](https://ieeexplore.ieee.org/document/10659742)]
+8. Automated program repair for variability bugs in software product line systems[2024-JSS] [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121224001973)]
+9. PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs[2024-IEEE Access] [[paper](https://ieeexplore.ieee.org/document/10644000)]
 
 ## 💡 Repair Scenarios 
 ### Semantic Bug
@@ -203,16 +204,17 @@
 
 ### Self-Debug
 
-1. Teaching Large Language Models to Self-Debug [2024-ICLR] [[paper](https://arxiv.org/pdf/2304.05128)]
-2. OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement [2024-arxiv] [[paper](https://arxiv.org/pdf/2402.14658)] [[repo](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter)]
-3. CYCLE: Learning to Self-Refine the Code Generation [2024-OOPSLA] [[paper](https://arxiv.org/pdf/2403.18746)] [[repo](https://github.com/ARiSE-Lab/CYCLE_OOPSLA_24)]
-4. LDB: A Large Language Model Debugger via Verifying Runtime Execution Step by Step [2024-arxiv] [[paper](https://arxiv.org/pdf/2402.16906)] [[repo](https://github.com/FloridSleeves/LLMDebugger)]
-5. Leveraging Print Debugging to Improve Code Generation in Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.05319)]
-6. SelfEvolve: A Code Evolution Framework via Large Language Models [2023-arxiv] [[paper](https://arxiv.org/pdf/2306.02907)]
-7. Self-Refine: Iterative Refinement with Self-Feedback [2023-NeurIPS] [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/91edff07232fb1b55a505a9e9f6c0ff3-Paper-Conference.pdf)] [[repo](https://github.com/madaan/self-refine)]
-8. AgentCoder: Multi Agent-Code Generation with Iterative Testing and Optimisation [2023-arxiv] [[paper](https://arxiv.org/pdf/2312.13010)]
-9. Self-Edit: Fault-Aware Code Editor for Code Generation [2023-ACL] [[paper](https://arxiv.org/pdf/2305.04087)] [[repo](https://github.com/zkcpku/Self-Edit)]
-10. Is Self-Repair a Silver Bullet for Code Generation? [2023-ICLR] [[paper](https://openreview.net/pdf?id=y0GJXRungR)] [[repo](https://github.com/theoxo/self-repair)]
+1. From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging [2024-arXiv] [[paper](https://arxiv.org/abs/2410.01215)] [[repo](https://github.com/YerbaPage/MGDebugger)]
+2. Teaching Large Language Models to Self-Debug [2024-ICLR] [[paper](https://arxiv.org/pdf/2304.05128)]
+3. OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement [2024-arxiv] [[paper](https://arxiv.org/pdf/2402.14658)] [[repo](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter)]
+4. CYCLE: Learning to Self-Refine the Code Generation [2024-OOPSLA] [[paper](https://arxiv.org/pdf/2403.18746)] [[repo](https://github.com/ARiSE-Lab/CYCLE_OOPSLA_24)]
+5. LDB: A Large Language Model Debugger via Verifying Runtime Execution Step by Step [2024-arxiv] [[paper](https://arxiv.org/pdf/2402.16906)] [[repo](https://github.com/FloridSleeves/LLMDebugger)]
+6. Leveraging Print Debugging to Improve Code Generation in Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.05319)]
+7. SelfEvolve: A Code Evolution Framework via Large Language Models [2023-arxiv] [[paper](https://arxiv.org/pdf/2306.02907)]
+8. Self-Refine: Iterative Refinement with Self-Feedback [2023-NeurIPS] [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/91edff07232fb1b55a505a9e9f6c0ff3-Paper-Conference.pdf)] [[repo](https://github.com/madaan/self-refine)]
+9. AgentCoder: Multi Agent-Code Generation with Iterative Testing and Optimisation [2023-arxiv] [[paper](https://arxiv.org/pdf/2312.13010)]
+10. Self-Edit: Fault-Aware Code Editor for Code Generation [2023-ACL] [[paper](https://arxiv.org/pdf/2305.04087)] [[repo](https://github.com/zkcpku/Self-Edit)]
+11. Is Self-Repair a Silver Bullet for Code Generation? [2023-ICLR] [[paper](https://openreview.net/pdf?id=y0GJXRungR)] [[repo](https://github.com/theoxo/self-repair)]
 
 
 ### Type Error

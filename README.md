@@ -54,7 +54,7 @@
 
 
 ## 🔥🔥 New Papers
-1.🔥Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing[2024-arXiv] [[paper](https://arxiv.org/abs/2410.07516)]
+1. 🔥Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing[2024-arXiv] [[paper](https://arxiv.org/abs/2410.07516)]
 2. Divide-and-Conquer: Automating Code Revisions via Localization-and-Revision [2024-TOSEM]
 3. From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging [2024-arXiv] [[paper](https://arxiv.org/abs/2410.01215)] [[repo](https://github.com/YerbaPage/MGDebugger)]
 4. Automated Program Repair for Introductory Programming Assignments [2024-TLT] [[paper](https://ieeexplore.ieee.org/document/10535720/)]
@@ -65,6 +65,7 @@
 9. Leveraging Large Language Model for Automatic Patch Correctness Assessment[2024-TSE] [[paper](https://ieeexplore.ieee.org/document/10659742)]
 10. Automated program repair for variability bugs in software product line systems[2024-JSS] [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121224001973)]
 11. PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs[2024-IEEE Access] [[paper](https://ieeexplore.ieee.org/document/10644000)]
+
 
 ## 💡 Repair Scenarios 
 ### Semantic Bug

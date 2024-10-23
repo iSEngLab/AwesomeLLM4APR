@@ -54,18 +54,19 @@
 
 
 ## 🔥🔥 New Papers
-1. 🔥Exploring the Potential of Conversational Test Suite Based Program Repair on SWE-bench [2024-arXiv]
-2. Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing[2024-arXiv] [[paper](https://arxiv.org/abs/2410.07516)]
-3. Divide-and-Conquer: Automating Code Revisions via Localization-and-Revision [2024-TOSEM]
-4. From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging [2024-arXiv] [[paper](https://arxiv.org/abs/2410.01215)] [[repo](https://github.com/YerbaPage/MGDebugger)]
-5. Automated Program Repair for Introductory Programming Assignments [2024-TLT] [[paper](https://ieeexplore.ieee.org/document/10535720/)]
-6. Automated Repair of AI Code with Large Language Models and Formal Verification [2024-arXiv] [[paper](https://arxiv.org/abs/2405.08848)]
-7. CraftRTL: High-quality Synthetic Data Generation for Verilog Code Models with Correct-by-Construction Non-Textual Representations and Targeted Code Repair [2024-arXiv-NVIDIA] [[paper](https://arxiv.org/abs/2409.12993)]
-8. Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs [2024-ISSTA]  [[paper](https://dl.acm.org/doi/10.1145/3650212.3652140)]
-9. Automated program repair via conversation: Fixing 162 out of 337 bugs for $0.42 each using chatgpt[2024-ISSTA] [[paper](https://dl.acm.org/doi/10.1145/3650212.3680323)]
-10. Leveraging Large Language Model for Automatic Patch Correctness Assessment[2024-TSE] [[paper](https://ieeexplore.ieee.org/document/10659742)]
-11. Automated program repair for variability bugs in software product line systems[2024-JSS] [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121224001973)]
-12. PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs[2024-IEEE Access] [[paper](https://ieeexplore.ieee.org/document/10644000)]
+1. 🔥Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair[2024-ASE]
+2. 🔥Exploring the Potential of Conversational Test Suite Based Program Repair on SWE-bench [2024-arXiv]
+3. Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing[2024-arXiv] [[paper](https://arxiv.org/abs/2410.07516)]
+4. Divide-and-Conquer: Automating Code Revisions via Localization-and-Revision [2024-TOSEM]
+5. From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging [2024-arXiv] [[paper](https://arxiv.org/abs/2410.01215)] [[repo](https://github.com/YerbaPage/MGDebugger)]
+6. Automated Program Repair for Introductory Programming Assignments [2024-TLT] [[paper](https://ieeexplore.ieee.org/document/10535720/)]
+7. Automated Repair of AI Code with Large Language Models and Formal Verification [2024-arXiv] [[paper](https://arxiv.org/abs/2405.08848)]
+8. CraftRTL: High-quality Synthetic Data Generation for Verilog Code Models with Correct-by-Construction Non-Textual Representations and Targeted Code Repair [2024-arXiv-NVIDIA] [[paper](https://arxiv.org/abs/2409.12993)]
+9. Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs [2024-ISSTA]  [[paper](https://dl.acm.org/doi/10.1145/3650212.3652140)]
+10. Automated program repair via conversation: Fixing 162 out of 337 bugs for $0.42 each using chatgpt[2024-ISSTA] [[paper](https://dl.acm.org/doi/10.1145/3650212.3680323)]
+11. Leveraging Large Language Model for Automatic Patch Correctness Assessment[2024-TSE] [[paper](https://ieeexplore.ieee.org/document/10659742)]
+12. Automated program repair for variability bugs in software product line systems[2024-JSS] [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121224001973)]
+13. PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs[2024-IEEE Access] [[paper](https://ieeexplore.ieee.org/document/10644000)]
 
 
 ## 💡 Repair Scenarios 
@@ -299,15 +300,16 @@
 7. Evaluating representation learning of code changes for predicting patch correctness in program repair [2020-ASE] [[paper](https://arxiv.org/pdf/2008.02944)] [[repo](https://github.com/TruX-DTF/DL4PatchCorrectness)]
 
 ## 📊 Benchmark
-1. 🔥MuBench: Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs [2024-ISSTA]  [[paper](https://dl.acm.org/doi/10.1145/3650212.3652140)]
-2. CodeEditorBench: Evaluating Code Editing Capability of Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.03543)] [[repo](https://github.com/CodeEditorBench/CodeEditorBench)]
-3. GitBug-Java: A Reproducible Benchmark of Recent Java Bugs [2024-arxiv] [[paper](https://arxiv.org/pdf/2402.02961)] [[repo](https://github.com/gitbugactions/gitbug-java)]
-4. SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[paper](https://arxiv.org/pdf/2310.06770)] [[repo](https://github.com/princeton-nlp/SWE-bench)]
-5. DebugBench: Evaluating Debugging Capability of Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.04621)] [[repo](https://github.com/thunlp/DebugBench)]
-6. ConDefects: A New Dataset to Address the Data Leakage Concern for LLM-based Fault Localization and Program Repair [2024-arxiv] [[paper](https://arxiv.org/pdf/2310.16253)] [[repo](https://github.com/appmlk/ConDefects)]
-7. A critical review of large language model on software engineering: An example from chatgpt and automated program repair [2023-arxiv] [[paper](https://arxiv.org/pdf/2310.08879)] [[repo](https://github.com/iSEngLab/EvalGPTFix)]
-8. CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation [2023-arxiv] [[paper](https://arxiv.org/pdf/2311.08588)] [[repo](https://github.com/WeixiangYAN/CodeScope)]
-9. FixEval: Execution-based Evaluation of Program Fixes for Programming Problems [2023-APR] [[paper](https://arxiv.org/pdf/2206.07796)] [[repo](https://github.com/mahimanzum/FixEval)]
+1. 🔥Exploring Parameter-Efficient Fine-Tuning of Large Language Model on Automated Program Repair[2024-ASE] [[paper](https://dl.acm.org/doi/abs/10.1145/3691620.3695066)]
+2. 🔥MuBench: Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs [2024-ISSTA]  [[paper](https://dl.acm.org/doi/10.1145/3650212.3652140)]
+3. CodeEditorBench: Evaluating Code Editing Capability of Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.03543)] [[repo](https://github.com/CodeEditorBench/CodeEditorBench)]
+4. GitBug-Java: A Reproducible Benchmark of Recent Java Bugs [2024-arxiv] [[paper](https://arxiv.org/pdf/2402.02961)] [[repo](https://github.com/gitbugactions/gitbug-java)]
+5. SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [2024-ICLR] [[paper](https://arxiv.org/pdf/2310.06770)] [[repo](https://github.com/princeton-nlp/SWE-bench)]
+6. DebugBench: Evaluating Debugging Capability of Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.04621)] [[repo](https://github.com/thunlp/DebugBench)]
+7. ConDefects: A New Dataset to Address the Data Leakage Concern for LLM-based Fault Localization and Program Repair [2024-arxiv] [[paper](https://arxiv.org/pdf/2310.16253)] [[repo](https://github.com/appmlk/ConDefects)]
+8. A critical review of large language model on software engineering: An example from chatgpt and automated program repair [2023-arxiv] [[paper](https://arxiv.org/pdf/2310.08879)] [[repo](https://github.com/iSEngLab/EvalGPTFix)]
+9. CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation [2023-arxiv] [[paper](https://arxiv.org/pdf/2311.08588)] [[repo](https://github.com/WeixiangYAN/CodeScope)]
+10. FixEval: Execution-based Evaluation of Program Fixes for Programming Problems [2023-APR] [[paper](https://arxiv.org/pdf/2206.07796)] [[repo](https://github.com/mahimanzum/FixEval)]
 
 ## 🤔 Related APR Surveys
 1. A Survey of Learning-based Automated Program Repair [2023-TOSEM] [[paper](https://arxiv.org/abs/2301.03270)] [[repo](https://github.com/iSEngLab/AwesomeLearningAPR)]

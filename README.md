@@ -51,6 +51,7 @@
 
 - [ ] add SE agent-based studies for GitHub Issues
 - [ ] add ISSTA 2024 Papers
+- [ ] release a new version of this paper on arXiv
 
 
 ## 🔥🔥 New Papers

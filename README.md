@@ -67,7 +67,7 @@
 11. Leveraging Large Language Model for Automatic Patch Correctness Assessment[2024-TSE] [[paper](https://ieeexplore.ieee.org/document/10659742)]
 12. Automated program repair for variability bugs in software product line systems[2024-JSS] [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121224001973)]
 13. PyBugHive: A Comprehensive Database of Manually Validated, Reproducible Python Bugs[2024-IEEE Access] [[paper](https://ieeexplore.ieee.org/document/10644000)]
-
+14. How to Understand Whole Software Repository? [2024-arXiv] [[paper](https://arxiv.org/pdf/2406.01422)]
 
 ## 💡 Repair Scenarios 
 ### Semantic Bug
@@ -133,6 +133,7 @@
 59. Generating Bug-Fixes Using Pretrained Transformers [2021-PLDI] [[paper](https://arxiv.org/pdf/2104.07896)]
 60. Applying CodeBERT for Automated Program Repair of Java Simple Bugs [2021-MSR] [[paper](https://arxiv.org/pdf/2103.11626)] [[repo](https://github.com/EhsanMashhadi/MSR2021-ProgramRepair)]
 61. CURE Code-Aware Neural Machine Translation for Automatic Program Repair [2021-ICSE] [[paper](https://arxiv.org/pdf/2103.00073)] [[repo](https://github.com/lin-tan/CURE)]
+62. How to Understand Whole Software Repository? [2024-arXiv] [[paper](https://arxiv.org/pdf/2406.01422)]
 
 ### Security Vulnerability
 

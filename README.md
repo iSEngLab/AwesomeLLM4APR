@@ -96,7 +96,7 @@
 5. A Novel Approach for Automatic Program Repair using Round-Trip Translation with Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2401.07994)] [[repo](https://zenodo.org/records/10500594)]
 6. Out of Context: How important is Local Context in Neural Program Repair? [2024-ICSE] [[paper](https://arxiv.org/pdf/2312.04986)] [[repo](https://github.com/giganticode/out_of_context_paper_data)]
 7. Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.12636)]
-8. Aligning LLMs for FL-free Program Repair [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.08877)]
+8. Aligning the Objective of LLM-based Program Repair [2025-ICSE] [[paper](https://arxiv.org/pdf/2404.08877)] [[repo](https://github.com/CUHK-Shenzhen-SE/D4C)]
 9. ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs [2024-arxiv] [[paper](https://arxiv.org/pdf/2403.01971)]
 10. Exploring the Potential of Pre-Trained Language Models of Code for Automated Program Repair [2024-Electronics] [[paper](https://www.mdpi.com/2079-9292/13/7/1200)]
 11. CigaR: Cost-efficient Program Repair with LLMs [2024-arxiv] [[paper](https://arxiv.org/pdf/2402.06598)] [[repo](https://github.com/ASSERT-KTH/cigar)]

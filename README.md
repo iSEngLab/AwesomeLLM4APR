@@ -306,7 +306,7 @@
 ## 🙆 Human Study
 
 1. Exploring Experiences with Automated Program Repair in Practice [2024-ICSE] [[paper](https://dl.acm.org/doi/pdf/10.1145/3597503.3639182)]
-2. Revisiting Unnaturalness for Automated Program Repair in the Era of Large Language Models [2024-arxiv] [[papper](https://arxiv.org/pdf/2404.15236)] [[repo](https://zenodo.org/records/10851256)]
+2. Revisiting Unnaturalness for Automated Program Repair in the Era of Large Language Models [2024-arxiv] [[paper](https://arxiv.org/pdf/2404.15236)] [[repo](https://zenodo.org/records/10851256)]
 3. An Empirical Study of Adoption of ChatGPT for Bug Fixing among Professional Developers [2023-ITA] [[paper](https://bergersci.com/index.php/jta/article/download/19/20)]
 
 ## 🙅 Patch Correctness Assessment

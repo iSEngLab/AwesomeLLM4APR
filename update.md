@@ -4,4 +4,20 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs](https://arxiv.org/abs/2510.11059) | 2025-10-13 | ASE-2025 |
+| [Exploring the Power of Diffusion Large Language Models for Software Engineering: An Empirical Investigation](https://arxiv.org/abs/2510.04605) | 2025-10-06 | arXiv |
+| [REFINE: Enhancing Program Repair Agents through Context-Aware Patch Refinement](https://arxiv.org/abs/2510.03588) | 2025-10-04 | arXiv |
+| [Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair](https://arxiv.org/abs/2510.03217) | 2025-10-03 | arXiv |
+| [Automated Repair of OpenID Connect Programs (Extended Version)](https://arxiv.org/abs/2510.02773) | 2025-10-03 | ASE 2025 |
+| [Towards Speeding up Program Repair with Non-Autoregressive Model](https://arxiv.org/abs/2510.01825) | 2025-10-02 | arXiv |
+| [Red Teaming Program Repair Agents: When Correct Patches can Hide Vulnerabilities](https://arxiv.org/abs/2509.25894) | 2025-09-30 | arXiv |
+| [BloomAPR: A Bloom's Taxonomy-based Framework for Assessing the Capabilities of LLM-Powered APR Solutions](https://arxiv.org/abs/2509.25465) | 2025-09-29 | ACM Transactions on Software Engineering and Methodology |
+| [RelRepair: Enhancing Automated Program Repair by Retrieving Relevant Code](https://arxiv.org/abs/2509.16701) | 2025-09-20 | TSE |
+| [RulER: Automated Rule-Based Semantic Error Localization and Repair for Code Translation](https://arxiv.org/abs/2509.14829) | 2025-09-18 | arXiv |
+| [ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence System](https://arxiv.org/abs/2509.14589) | 2025-09-18 | arXiv |
+| [RepoDebug: Repository-Level Multi-Task and Multi-Language Debugging Evaluation of Large Language Models](https://arxiv.org/abs/2509.04078) | 2025-09-04 | EMNLP 2025 Findings |
+| [Adversarial Bug Reports as a Security Risk in Language Model-Based Automated Program Repair](https://arxiv.org/abs/2509.05372) | 2025-09-04 | arXiv |
+| [ReCode: Improving LLM-based Code Repair with Fine-Grained Retrieval-Augmented Generation](https://arxiv.org/abs/2509.02330) | 2025-09-02 | CIKM 2025 |
+| [From Benchmark Data To Applicable Program Repair: An Experience Report](https://arxiv.org/abs/2508.16071) | 2025-08-22 | arXiv |
+| [On the need to perform comprehensive evaluations of automated program repair benchmarks: Sorald case study](https://arxiv.org/abs/2508.15135) | 2025-08-21 | arXiv |
 | [Automated Program Repair of Uncompilable Student Code](https://arxiv.org/abs/2510.06187) | 2025-10-07 | arXiv |

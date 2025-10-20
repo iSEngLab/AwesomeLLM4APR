@@ -9,6 +9,7 @@
 
 
 
+**We use an LLM-based bot to automatically fetch and summarize new LLM4APR papers, with regular human curation to ensure quality. You can check the raw bot updates in this [file](https://github.com/iSEngLab/AwesomeLLM4APR/blob/main/update.md), or explore the curated summaries on our [summary site](https://iseabot.github.io/CI-LLM4APR).**
 
 ## 📖 Contents
 
@@ -59,7 +60,6 @@
 
 ## 🔥🔥 New Papers
 
-> We use an LLM-based bot to fetch new LLM4APR papers and update this repository with regular human curation; for the raw, unreviewed bot updates, see this [file](https://github.com/iSEngLab/AwesomeLLM4APR/blob/bot_updates/update.md).
 1. 🔥A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation  [2024-arXiv]
 2. 🔥SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents [2024-NeurIPS]
 3. 🔥CORE: Resolving Code Quality Issues using LLMs [2024-FSE]
@@ -341,4 +341,5 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=iSEngLab/AwesomeLLM4APR&type=Date)](https://star-history.com/#iSEngLab/AwesomeLLM4APR&Date)
+
 

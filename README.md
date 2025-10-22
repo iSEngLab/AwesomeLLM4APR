@@ -9,7 +9,7 @@
 
 
 
-**We use an LLM-based bot to automatically fetch and summarize new LLM4APR papers, with regular human curation to ensure quality. You can check the raw bot updates in this [file](https://github.com/iSEngLab/AwesomeLLM4APR/blob/main/update.md), or explore the curated summaries on our [summary site](https://iseabot.github.io/CI-LLM4APR).**
+**We use an LLM-based bot to automatically fetch and summarize new LLM4APR papers, with regular human curation to ensure quality. You can check the raw bot updates in this separate [update_file](https://github.com/iSEngLab/AwesomeLLM4APR/blob/main/update.md), or explore the curated summaries on our [summary site](https://iseabot.github.io/CI-LLM4APR).**
 
 ## 📖 Contents
 
@@ -341,5 +341,6 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=iSEngLab/AwesomeLLM4APR&type=Date)](https://star-history.com/#iSEngLab/AwesomeLLM4APR&Date)
+
 
 

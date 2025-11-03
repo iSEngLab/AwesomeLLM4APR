@@ -55,11 +55,6 @@
 
 ```
 
-# 🚗Todo List
-
-- [ ] add SE agent-based studies for GitHub Issues
-- [ ] add ISSTA 2024 Papers
-- [ ] release a new version of this paper on arXiv
 
 ## 🔥🔥 New Papers
 
@@ -469,6 +464,7 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=iSEngLab/AwesomeLLM4APR&type=Date)](https://star-history.com/#iSEngLab/AwesomeLLM4APR&Date)
+
 
 
 

@@ -4,6 +4,15 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [InfCode-C++: Intent-Guided Semantic Retrieval and AST-Structured Search for C++ Issue Resolution](https://arxiv.org/abs/2511.16005) | 2025-11-20 | arXiv |
+| [InfCode: Adversarial Iterative Refinement of Tests and Patches for Reliable Software Issue Resolution](https://arxiv.org/abs/2511.16004) | 2025-11-20 | arXiv |
+| [Rethinking Kernel Program Repair: Benchmarking and Enhancing LLMs with RGym](https://arxiv.org/abs/2511.15757) | 2025-11-19 | NeurIPS 2025 |
+| [SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports](https://arxiv.org/abs/2511.12993) | 2025-11-17 | arXiv |
+| [PATCHEVAL: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities](https://arxiv.org/abs/2511.11019) | 2025-11-14 | arXiv |
+| [Beyond Accuracy: Behavioral Dynamics of Agentic Multi-Hunk Repair](https://arxiv.org/abs/2511.11012) | 2025-11-14 | arXiv |
+| [Towards a Human-in-the-Loop Framework for Reliable Patch Evaluation Using an LLM-as-a-Judge](https://arxiv.org/abs/2511.10865) | 2025-11-14 | arXiv |
+| [Specification-Guided Vulnerability Detection with Large Language Models](https://arxiv.org/abs/2511.04014) | 2025-11-06 | arXiv |
+| [DPO-F+: Aligning Code Repair Feedback with Developers' Preferences](https://arxiv.org/abs/2511.01043) | 2025-11-02 | arXiv |
 | [Collaborative Agents for Automated Program Repair in Ruby](https://arxiv.org/abs/2511.03925) | 2025-11-06 | arXiv |
 | [HAFixAgent: History-Aware Automated Program Repair Agent](https://arxiv.org/abs/2511.01047) | 2025-11-02 | arXiv |
 | [A Comprehensive Empirical Evaluation of Agent Frameworks on Code-centric Software Engineering Tasks](https://arxiv.org/abs/2511.00872) | 2025-11-02 | arXiv |

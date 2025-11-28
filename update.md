@@ -4,6 +4,12 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [R3A: Reliable RTL Repair Framework with Multi-Agent Fault Localization and Stochastic Tree-of-Thoughts Patch Generation](https://arxiv.org/abs/2511.20090) | 2025-11-25 | arXiv |
+| [SLMFix: Leveraging Small Language Models for Error Fixing with Reinforcement Learning](https://arxiv.org/abs/2511.19422) | 2025-11-24 | arXiv |
+| [Summary-Mediated Repair: Can LLMs use code summarisation as a tool for program repair?](https://arxiv.org/abs/2511.18782) | 2025-11-24 | arXiv |
+| [Enhancing Automated Program Repair via Faulty Token Localization and Quality-Aware Patch Refinement](https://arxiv.org/abs/2511.18001) | 2025-11-22 | arXiv |
+| [Is the Cure Still Worse Than the Disease? Test Overfitting by LLMs in Automated Program Repair](https://arxiv.org/abs/2511.16858) | 2025-11-20 | arXiv |
+| [Multi-Agent Code Verification with Compound Vulnerability Detection](https://arxiv.org/abs/2511.16708) | 2025-11-20 | arXiv |
 | [InfCode-C++: Intent-Guided Semantic Retrieval and AST-Structured Search for C++ Issue Resolution](https://arxiv.org/abs/2511.16005) | 2025-11-20 | arXiv |
 | [InfCode: Adversarial Iterative Refinement of Tests and Patches for Reliable Software Issue Resolution](https://arxiv.org/abs/2511.16004) | 2025-11-20 | arXiv |
 | [Rethinking Kernel Program Repair: Benchmarking and Enhancing LLMs with RGym](https://arxiv.org/abs/2511.15757) | 2025-11-19 | NeurIPS 2025 |

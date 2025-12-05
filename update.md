@@ -4,6 +4,10 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [Feedback Loops and Code Perturbations in LLM-based Software Engineering: A Case Study on a C-to-Rust Translation System](https://arxiv.org/abs/2512.02567) | 2025-12-02 | arXiv |
+| [Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities](https://arxiv.org/abs/2511.23408) | 2025-11-28 | 41st ACM/SIGAPP Symposium on Applied Computing (SAC) Smarter Engineering-Building AI and Building with AI (SEAI) 2026 |
+| [LLM-Driven Kernel Evolution: Automating Driver Updates in Linux](https://arxiv.org/abs/2511.18924) | 2025-11-24 | arXiv |
+| [Multi-Agent Code Verification via Information Theory](https://arxiv.org/abs/2511.16708) | 2025-11-20 | arXiv |
 | [R3A: Reliable RTL Repair Framework with Multi-Agent Fault Localization and Stochastic Tree-of-Thoughts Patch Generation](https://arxiv.org/abs/2511.20090) | 2025-11-25 | arXiv |
 | [SLMFix: Leveraging Small Language Models for Error Fixing with Reinforcement Learning](https://arxiv.org/abs/2511.19422) | 2025-11-24 | arXiv |
 | [Summary-Mediated Repair: Can LLMs use code summarisation as a tool for program repair?](https://arxiv.org/abs/2511.18782) | 2025-11-24 | arXiv |

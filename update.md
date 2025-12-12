@@ -4,6 +4,9 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [CloudFix: Automated Policy Repair for Cloud Access Control Policies Using Large Language Models](https://arxiv.org/abs/2512.09957) | 2025-12-09 | arXiv |
+| [Autonomous Issue Resolver: Towards Zero-Touch Code Maintenance](https://arxiv.org/abs/2512.08492) | 2025-12-09 | arXiv |
+| [Automated Program Repair Based on REST API Specifications Using Large Language Models](https://arxiv.org/abs/2510.25148) | 2025-10-29 | arXiv |
 | [Feedback Loops and Code Perturbations in LLM-based Software Engineering: A Case Study on a C-to-Rust Translation System](https://arxiv.org/abs/2512.02567) | 2025-12-02 | arXiv |
 | [Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities](https://arxiv.org/abs/2511.23408) | 2025-11-28 | 41st ACM/SIGAPP Symposium on Applied Computing (SAC) Smarter Engineering-Building AI and Building with AI (SEAI) 2026 |
 | [LLM-Driven Kernel Evolution: Automating Driver Updates in Linux](https://arxiv.org/abs/2511.18924) | 2025-11-24 | arXiv |

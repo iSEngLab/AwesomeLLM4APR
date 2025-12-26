@@ -4,6 +4,7 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair](https://arxiv.org/abs/2512.20203) | 2025-12-23 | ICSE 2026 |
 | [CloudFix: Automated Policy Repair for Cloud Access Control Policies Using Large Language Models](https://arxiv.org/abs/2512.09957) | 2025-12-09 | arXiv |
 | [Autonomous Issue Resolver: Towards Zero-Touch Code Maintenance](https://arxiv.org/abs/2512.08492) | 2025-12-09 | arXiv |
 | [Automated Program Repair Based on REST API Specifications Using Large Language Models](https://arxiv.org/abs/2510.25148) | 2025-10-29 | arXiv |

@@ -4,6 +4,8 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [DynaFix: Iterative Automated Program Repair Driven by Execution-Level Dynamic Information](https://arxiv.org/abs/2512.24635) | 2025-12-31 | arXiv |
+| [Syntax Is Not Enough: An Empirical Study of Small Transformer Models for Neural Code Repair](https://arxiv.org/abs/2512.22216) | 2025-12-22 | arXiv |
 | [Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair](https://arxiv.org/abs/2512.20203) | 2025-12-23 | ICSE 2026 |
 | [CloudFix: Automated Policy Repair for Cloud Access Control Policies Using Large Language Models](https://arxiv.org/abs/2512.09957) | 2025-12-09 | arXiv |
 | [Autonomous Issue Resolver: Towards Zero-Touch Code Maintenance](https://arxiv.org/abs/2512.08492) | 2025-12-09 | arXiv |

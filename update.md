@@ -4,6 +4,9 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [A Systematic Study of LLM-Based Architectures for Automated Patching](https://arxiv.org/abs/2603.01257) | 2026-03-01 | arXiv |
+| [RepoRepair: Leveraging Code Documentation for Repository-Level Automated Program Repair](https://arxiv.org/abs/2603.01048) | 2026-03-01 | arXiv |
+| [Historian: Reducing Manual Validation in APR Benchmarking via Evidence-Based Assessment](https://arxiv.org/abs/2603.00649) | 2026-02-28 | arXiv |
 | [The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069) | 2026-02-17 | arXiv |
 | [ArkEval: Benchmarking and Evaluating Automated CodeRepair for ArkTS](https://arxiv.org/abs/2602.08866) | 2026-02-09 | arXiv |
 | [Specification Vibing for Automated Program Repair](https://arxiv.org/abs/2602.08263) | 2026-02-09 | arXiv |

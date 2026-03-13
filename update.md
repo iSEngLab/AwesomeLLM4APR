@@ -4,6 +4,9 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [Unveiling Practical Shortcomings of Patch Overfitting Detection Techniques](https://arxiv.org/abs/2603.11262) | 2026-03-11 | arXiv |
+| [Why LLMs Fail: A Failure Analysis and Partial Success Measurement for Automated Security Patch Generation](https://arxiv.org/abs/2603.10072) | 2026-03-10 | arXiv |
+| [On the Effectiveness of Code Representation in Deep Learning-Based Automated Patch Correctness Assessment](https://arxiv.org/abs/2603.07520) | 2026-03-08 | arXiv |
 | [A Systematic Study of LLM-Based Architectures for Automated Patching](https://arxiv.org/abs/2603.01257) | 2026-03-01 | arXiv |
 | [RepoRepair: Leveraging Code Documentation for Repository-Level Automated Program Repair](https://arxiv.org/abs/2603.01048) | 2026-03-01 | arXiv |
 | [Historian: Reducing Manual Validation in APR Benchmarking via Evidence-Based Assessment](https://arxiv.org/abs/2603.00649) | 2026-02-28 | arXiv |

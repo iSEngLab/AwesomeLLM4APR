@@ -4,6 +4,8 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [FailureMem: A Failure-Aware Multimodal Framework for Autonomous Software Repair](https://arxiv.org/abs/2603.17826) | 2026-03-18 | arXiv |
+| [VIBEPASS: Can Vibe Coders Really Pass the Vibe Check?](https://arxiv.org/abs/2603.15921) | 2026-03-16 | arXiv |
 | [Unveiling Practical Shortcomings of Patch Overfitting Detection Techniques](https://arxiv.org/abs/2603.11262) | 2026-03-11 | arXiv |
 | [Why LLMs Fail: A Failure Analysis and Partial Success Measurement for Automated Security Patch Generation](https://arxiv.org/abs/2603.10072) | 2026-03-10 | arXiv |
 | [On the Effectiveness of Code Representation in Deep Learning-Based Automated Patch Correctness Assessment](https://arxiv.org/abs/2603.07520) | 2026-03-08 | arXiv |

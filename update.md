@@ -4,6 +4,8 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [Agentic Harness for Real-World Compilers](https://arxiv.org/abs/2603.20075) | 2026-03-20 | arXiv |
+| [Procedural Refinement by LLM-driven Algorithmic Debugging for ARC-AGI-2](https://arxiv.org/abs/2603.20334) | 2026-03-20 | arXiv |
 | [FailureMem: A Failure-Aware Multimodal Framework for Autonomous Software Repair](https://arxiv.org/abs/2603.17826) | 2026-03-18 | arXiv |
 | [VIBEPASS: Can Vibe Coders Really Pass the Vibe Check?](https://arxiv.org/abs/2603.15921) | 2026-03-16 | arXiv |
 | [Unveiling Practical Shortcomings of Patch Overfitting Detection Techniques](https://arxiv.org/abs/2603.11262) | 2026-03-11 | arXiv |

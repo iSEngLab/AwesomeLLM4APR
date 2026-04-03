@@ -4,6 +4,10 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [Semantic Evolution over Populations for LLM-Guided Automated Program Repair](https://arxiv.org/abs/2604.02134) | 2026-04-02 | arXiv |
+| [A Study on the Impact of Fault localization Granularity for Repository-Scale Code Repair Tasks](https://arxiv.org/abs/2604.00167) | 2026-03-31 | arXiv |
+| [Beyond Localization: Recoverable Headroom and Residual Frontier in Repository-Level RAG-APR](https://arxiv.org/abs/2603.29067) | 2026-03-30 | arXiv |
+| [A Benchmark for Evaluating Repository-Level Code Agents with Intermediate Reasoning on Feature Addition Task](https://arxiv.org/abs/2603.26337) | 2026-03-27 | arXiv |
 | [Agentic Harness for Real-World Compilers](https://arxiv.org/abs/2603.20075) | 2026-03-20 | arXiv |
 | [Procedural Refinement by LLM-driven Algorithmic Debugging for ARC-AGI-2](https://arxiv.org/abs/2603.20334) | 2026-03-20 | arXiv |
 | [FailureMem: A Failure-Aware Multimodal Framework for Autonomous Software Repair](https://arxiv.org/abs/2603.17826) | 2026-03-18 | arXiv |

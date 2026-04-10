@@ -4,6 +4,15 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [GALA: Multimodal Graph Alignment for Bug Localization in Automated Program Repair](https://arxiv.org/abs/2604.08089) | 2026-04-09 | arXiv |
+| [REAgent: Requirement-Driven LLM Agents for Software Issue Resolution](https://arxiv.org/abs/2604.06861) | 2026-04-08 | arXiv |
+| [Fine-grained Approaches for Confidence Calibration of LLMs in Automated Code Revision](https://arxiv.org/abs/2604.06723) | 2026-04-08 | arXiv |
+| [QiMeng-PRepair: Precise Code Repair via Edit-Aware Reward Optimization](https://arxiv.org/abs/2604.05963) | 2026-04-07 | ACL 2026 |
+| [An End-to-End Approach for Fixing Concurrency Bugs via SHB-Based Context Extractor](https://arxiv.org/abs/2604.05753) | 2026-04-07 | arXiv |
+| [On the Role of Fault Localization Context for LLM-Based Program Repair](https://arxiv.org/abs/2604.05481) | 2026-04-07 | arXiv |
+| [Beyond Crash-to-Patch: Patch Evolution for Linux Kernel Repair](https://arxiv.org/abs/2604.03851) | 2026-04-04 | arXiv |
+| [DebugHarness: Emulating Human Dynamic Debugging for Autonomous Program Repair](https://arxiv.org/abs/2604.03610) | 2026-04-04 | arXiv |
+| [PAFT: Preservation Aware Fine-Tuning for Minimal-Edit Program Repair](https://arxiv.org/abs/2604.03113) | 2026-04-03 | arXiv |
 | [Semantic Evolution over Populations for LLM-Guided Automated Program Repair](https://arxiv.org/abs/2604.02134) | 2026-04-02 | arXiv |
 | [A Study on the Impact of Fault localization Granularity for Repository-Scale Code Repair Tasks](https://arxiv.org/abs/2604.00167) | 2026-03-31 | arXiv |
 | [Beyond Localization: Recoverable Headroom and Residual Frontier in Repository-Level RAG-APR](https://arxiv.org/abs/2603.29067) | 2026-03-30 | arXiv |

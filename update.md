@@ -4,6 +4,9 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [HWE-Bench: Benchmarking LLM Agents on Real-World Hardware Bug Repair Tasks](https://arxiv.org/abs/2604.14709) | 2026-04-16 | arXiv |
+| [LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software](https://arxiv.org/abs/2604.12994) | 2026-04-14 | arXiv |
+| [Enhancing Program Repair with Specification Guidance and Intermediate Behavioral Signals](https://arxiv.org/abs/2604.11770) | 2026-04-13 | arXiv |
 | [GALA: Multimodal Graph Alignment for Bug Localization in Automated Program Repair](https://arxiv.org/abs/2604.08089) | 2026-04-09 | arXiv |
 | [REAgent: Requirement-Driven LLM Agents for Software Issue Resolution](https://arxiv.org/abs/2604.06861) | 2026-04-08 | arXiv |
 | [Fine-grained Approaches for Confidence Calibration of LLMs in Automated Code Revision](https://arxiv.org/abs/2604.06723) | 2026-04-08 | arXiv |

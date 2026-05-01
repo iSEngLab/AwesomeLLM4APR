@@ -4,6 +4,8 @@
 
 | Title | Published Date | Venue/Conference |
 | --- | --- | --- |
+| [CI-Repair-Bench: A Repository-Aware Benchmark for Automated Patch Validation via CI Workflows](https://arxiv.org/abs/2604.27148) | 2026-04-29 | arXiv |
+| [Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis](https://arxiv.org/abs/2604.24212) | 2026-04-27 | FSE 2026 |
 | [HWE-Bench: Benchmarking LLM Agents on Real-World Hardware Bug Repair Tasks](https://arxiv.org/abs/2604.14709) | 2026-04-16 | arXiv |
 | [LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software](https://arxiv.org/abs/2604.12994) | 2026-04-14 | arXiv |
 | [Enhancing Program Repair with Specification Guidance and Intermediate Behavioral Signals](https://arxiv.org/abs/2604.11770) | 2026-04-13 | arXiv |
